@@ -21,11 +21,14 @@ brain <- read_delim("data/animaltraits_db.csv") %>%
 #             mutate(c_value = as.numeric(c_value))
 
 lh <- read_delim("data/AnAge.txt") %>% 
-        clean_names()
+        clean_names() %>% 
+        rename(body_mass_AnAge = body_mass_g,
+               metabolic_rate_AnAge = metabolic_rate_w) %>% 
+        select(genus, species, common_name, maximum_longevity_yrs, data_quality,
+               body_mass_AnAge, metabolic_rate_AnAge)
 
 df <- brain %>% 
-       
-        inner_join(lh) 
+        left_join(lh, by = c("genus", "species")) 
         
     
         inner_join(lh, by = c( "order", "family", "genus", "species")) %>% 
