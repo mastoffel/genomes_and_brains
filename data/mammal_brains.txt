@@ -1,0 +1,1021 @@
+genus species body_mass metabolic_rate mass_specific_metabolic_rate brain_size common_name maximum_longevity_yrs data_quality body_mass_AnAge metabolic_rate_AnAge
+Arctocephalus australis NA NA NA 0.3075 "South American fur seal" 30.6 acceptable NA NA
+Arctocephalus forsteri NA NA NA 0.32 "New Zealand fur seal" NA low NA NA
+Arctocephalus galapagoensis NA NA NA 0.29125 "Galapagos fur seal" NA low NA NA
+Arctocephalus gazella NA NA NA 0.34 "Antarctic fur seal" NA low NA NA
+Arctocephalus philippii NA NA NA 0.415 NA NA NA NA NA
+Arctocephalus pusillus NA NA NA 0.36938 "South African fur seal" 32.1 acceptable NA NA
+Arctocephalus tropicalis NA NA NA 0.32625 "Subantarctic fur seal" NA low NA NA
+Callorhinus ursinus NA NA NA 0.31875 "Northern fur seal" NA low NA NA
+Cystophora cristata NA NA NA 0.455 "Hooded seal" NA low NA NA
+Eumetopias jubatus NA NA NA 0.66125 "Steller sea lion" 32.8 acceptable NA NA
+Halichoerus grypus NA NA NA 0.3075 "Gray seal" 42.9 acceptable NA NA
+Hydrurga leptonyx NA NA NA 0.7125 "Leopard seal" NA low NA NA
+Leptonychotes weddellii NA NA NA 0.58625 "Weddell seal" NA low NA NA
+Lobodon carcinophagus NA NA NA 0.58625 NA NA NA NA NA
+Mirounga leonina NA NA NA 1.205 "Southern elephant seal" NA low NA NA
+Monachus monachus NA NA NA 0.48 "Mediterranean monk seal" NA low NA NA
+Monachus schauinslandi NA NA NA 0.37 "Hawaiian monk seal" NA low NA NA
+Monachus tropicalis NA NA NA 0.46 NA NA NA NA NA
+Neophoca cinerea NA NA NA 0.38875 "Australian sea lion" 24.1 acceptable NA NA
+Odobenus rosmarus NA NA NA 1.41025 Walrus NA low NA NA
+Ommatophoca rossii NA NA NA 0.495 "Ross seal" NA low NA NA
+Otaria byronia NA NA NA 0.50625 NA NA NA NA NA
+Phoca caspica NA NA NA 0.1625 NA NA NA NA NA
+Phoca fasciata NA NA NA 0.24875 NA NA NA NA NA
+Phoca groenlandica NA NA NA 0.275 NA NA NA NA NA
+Phoca hispida NA NA NA 0.19625 NA NA NA NA NA
+Phoca largha NA NA NA 0.25375 "Spotted seal" NA low NA NA
+Phoca sibirica NA NA NA 0.1875 NA NA NA NA NA
+Phoca vitulina NA NA NA 0.27375 "Harbor seal" 47.6 acceptable 27400 73.29
+Phocarctos hookeri NA NA NA 0.39375 "New Zealand sea lion" NA low NA NA
+Zalophus californianus NA NA NA 0.405 "California sea lion" 35.7 high NA NA
+Alouatta palliata 6.917 NA NA 0.06378 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.8245 NA NA 0.06553 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.2575 NA NA 0.06022 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.031 NA NA 0.0549 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.484 NA NA 0.0567 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.2575 NA NA 0.0567 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.031 NA NA 0.05313 "Mantled howler monkey" 24 acceptable 4670 11.464
+Ateles geoffroyi 2.268 NA NA 0.0945 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles geoffroyi 1.835 NA NA 0.091 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles geoffroyi 2.268 NA NA 0.082 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles geoffroyi 1.92 NA NA 0.0955 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles geoffroyi 2.155 NA NA 0.095 "Central American spider monkey" 47.1 acceptable NA NA
+Saguinus oedipus 0.37 NA NA 0.0097 "Cotton-top tamarin" 26.2 high NA NA
+Saguinus oedipus 0.37 NA NA 0.0092 "Cotton-top tamarin" 26.2 high NA NA
+Aotus trivirgatus 0.63 NA NA 0.0172 "Northern night monkey" 30.1 acceptable 914.5 2.499
+Aotus trivirgatus 0.72 NA NA 0.0172 "Northern night monkey" 30.1 acceptable 914.5 2.499
+Saimiri sciureus 0.58 NA NA 0.0231 "South American squirrel monkey" 30.2 high 836.7 4.429
+Saimiri sciureus 0.72 NA NA 0.025 "South American squirrel monkey" 30.2 high 836.7 4.429
+Cebus albifrons 1.47 NA NA 0.0607 "White-fronted capuchin" 40.4 acceptable NA NA
+Cebus albifrons 1.77 NA NA 0.0652 "White-fronted capuchin" 40.4 acceptable NA NA
+Cebus apella 1.81 NA NA 0.0626 NA NA NA NA NA
+Cebus apella 2.77 NA NA 0.0708 NA NA NA NA NA
+Ateles geoffroyi 4.68 NA NA 0.1077 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles geoffroyi 4.76 NA NA 0.1076 "Central American spider monkey" 47.1 acceptable NA NA
+Ateles paniscus 5.22 NA NA 0.1012 "Black spider monkey" 46 acceptable NA NA
+Ateles paniscus 5.04 NA NA 0.1065 "Black spider monkey" 46 acceptable NA NA
+Chlorocebus aethiops 3.22 NA NA 0.0661 Vervet 30.8 acceptable NA NA
+Chlorocebus aethiops 5.23 NA NA 0.0663 Vervet 30.8 acceptable NA NA
+Macaca fascicularis 3.36 NA NA 0.0619 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 4.74 NA NA 0.07 "Long-tailed macaque" 39 acceptable NA NA
+Macaca mulatta 4.88 NA NA 0.0852 "Rhesus monkey" 40 high NA NA
+Macaca mulatta 5.21 NA NA 0.0907 "Rhesus monkey" 40 high NA NA
+Macaca arctoides 7.45 NA NA 0.0998 "Stump-tailed macaque" 29.2 acceptable NA NA
+Macaca arctoides 7.81 NA NA 0.1016 "Stump-tailed macaque" 29.2 acceptable NA NA
+Papio anubis 12.9 NA NA 0.148 NA NA NA NA NA
+Papio anubis 16.06 NA NA 0.1747 NA NA NA NA NA
+Rattus sp. 0.179 NA NA 0.001537 NA NA NA NA NA
+Meriones unguiculatus 0.054 NA NA 9.68e-4 "Mongolian jird" 6.3 acceptable 64.8 0.546
+Mus sp. 0.024 NA NA 4.03e-4 NA NA NA NA NA
+Cryptoprocta ferox 9.5 NA NA 0.03678 Fossa 23.1 acceptable NA NA
+Atilax paludinosus 3.3 NA NA 0.02784 "Marsh mongoose" 20.8 acceptable NA NA
+Herpestes urva 1.863 NA NA 0.0223 "Crab-eating mongoose" 13.3 acceptable NA NA
+Paracynictis selousi 1.64 NA NA 0.01673 NA NA NA NA NA
+Conepatus chinga 1.918 NA NA 0.01632 "Molina's hog-nosed skunk" 10 acceptable NA NA
+Conepatus leuconotus 3.5 NA NA 0.01852 "Hog-nosed skunk" 10.2 acceptable NA NA
+Mephitis mephitis 1.7 NA NA 0.01175 "Striped skunk" 13.9 acceptable NA NA
+Mydaus marchei 1.414 NA NA 0.01487 NA NA NA NA NA
+Spilogale gracilis 0.42 NA NA 0.00681 NA NA NA NA NA
+Spilogale putorius 0.341 NA NA 0.00733 "Eastern spotted skunk" 10.5 acceptable 624 1.674
+Galictis cuja 1 NA NA 0.02352 "Lesser grison" 10.2 acceptable NA NA
+Ictonyx striatus 1.3 NA NA 0.00817 "Striped polecat" 14 acceptable NA NA
+Mellivora capensis 9 NA NA 0.08604 "Honey badger" 31.3 acceptable NA NA
+Mustela erminea 0.156 NA NA 0.00342 Ermine 12.5 acceptable 125.5 1.276
+Poecilogale albinucha 0.34 NA NA 0.00456 "African striped weasel" NA low NA NA
+Taxidea taxus 6 NA NA 0.056 "American badger" 25 acceptable 9000 15.062
+Vormela peregusna 0.45 NA NA 0.00653 "Marbled polecat" 8.8 acceptable NA NA
+Bassaricyon alleni 1.235 NA NA 0.01937 "Allen's olingo" 25.2 acceptable NA NA
+Paguma larvata 4.3 NA NA 0.02647 "Masked palm civet" 27.4 acceptable NA NA
+Viverra tangalunga 10 NA NA 0.02725 "Malayan civet" 15 questionable NA NA
+Euphractus sexcinctus 7.99 NA NA 0.02137 "Six-banded armadillo" 22.1 acceptable 8190 6.901
+Tolypeutes matacus 1.2 NA NA 0.00886 "Southern three-banded armadillo" 36.8 acceptable 1160 1.172
+Zaedyus pichiy 1.74 NA NA 0.00798 Pichi 12.5 acceptable 1740 2.192
+Atelerix albiventris 0.28 NA NA 0.00176 "Four-toed hedgehog" 11.4 high 450 0.828
+Echinosorex gymnura 0.957 NA NA 0.0055 Moonrat NA low 721.2 2.816
+Mesechinus dauuricus 0.342 NA NA 0.0029 NA NA NA NA NA
+Manis pentadactyla 4.675 NA NA 0.01764 "Chinese pangolin" NA low 3637.5 3.727
+Manis tricuspis 2.067 NA NA 0.0093 NA NA NA NA NA
+Clyomys laticeps 0.201 NA NA 0.00352 NA NA NA NA NA
+Echimys chrysurus 0.652 NA NA 0.00502 NA NA NA NA NA
+Makalata didelphoides 0.108 NA NA 0.00345 "Red-nosed armored tree-rat" NA low NA NA
+Makalata macrura 0.439 NA NA 0.00389 NA NA NA NA NA
+Mesomys hispidus 0.175 NA NA 0.00264 NA NA NA NA NA
+Proechimys brevicauda 0.285 NA NA 0.00295 "Andean spiny rat. Short-tailed spiny-rat" 6.8 acceptable NA NA
+Coendou prehensilis 4.4 NA NA 0.01673 "Prehensile-tailed porcupine" 26.6 acceptable 3280 5.123
+Coendou rothschildi 2 NA NA 0.02085 NA NA NA NA NA
+Sphiggurus vestitus 0.736 NA NA 0.01171 NA NA NA NA NA
+Atherurus macrourus 2 NA NA 0.03157 "Asiatic brush-tailed porcupine" NA low NA NA
+Hystrix africaeaustralis 14.936 NA NA 0.03571 "Cape porcupine" 23.1 acceptable 11300 13.175
+Hystrix brachyura 8 NA NA 0.03764 "Malayan porcupine" 27.3 acceptable NA NA
+Hystrix cristata 20 NA NA 0.04955 "African porcupine" 28 acceptable NA NA
+Hystrix indica 14.65 NA NA 0.04407 "Indian crested porcupine" 27.1 acceptable NA NA
+Hystrix sumatrae 3.26 NA NA 0.02704 "Sumatran porcupine" NA low NA NA
+Trichys fasciculata 1.56 NA NA 0.01305 "Long-tailed porcupine" NA low NA NA
+Saguinus oedipus 0.32714 NA NA 0.00964 "Cotton-top tamarin" 26.2 high NA NA
+Ursus arctos 131.02267 NA NA 0.33597 "Brown bear" 40 acceptable NA NA
+Pan troglodytes 60.43316 NA NA 0.35481 Chimpanzee 59.4 acceptable NA NA
+Saguinus geoffroyi 0.63467 NA NA 0.01427 "Geoffroy's tamarin" 20.5 acceptable 225 1.305
+Panthera tigris 195 NA NA 0.26973 Tiger 26.3 high 137900 133.859
+Tamandua tetradactyla 4.361 NA NA 0.0275 "Southern tamandua" 19 acceptable 3500 5.015
+Pongo pygmaeus 54.22904 NA NA 0.34199 Orangutan 59 acceptable NA NA
+Hylobates muelleri 5.95488 NA NA 0.09531 "Borneo gibbon" 60 acceptable NA NA
+Hylobates syndactylus 12.172 NA NA 0.1348 NA NA NA NA NA
+Gorilla gorilla 120.975 NA NA 0.45455 Gorilla 60.1 acceptable NA NA
+Damaliscus pygargus 62.5 NA NA 0.2546 "Sassaby or blesbok" 23 high NA NA
+Homo sapiens 65.14286 NA NA 1.25043 Human 122.5 high 70000 82.78
+Rhynchocyon petersi 0.37 NA NA 0.0054 NA NA NA NA NA
+Cercocebus agilis 4.7 NA NA 0.0953 "Agile mangabey" 31 acceptable NA NA
+Mandrillus sphinx 11.5 NA NA 0.1592 Mandrill 40 high NA NA
+Saimiri boliviensis 0.75 NA NA 0.02406 "Bolivian squirrel monkey" 30.3 acceptable NA NA
+Trachypithecus francoisi 9.1 NA NA 0.0944 "Fran?ois's leaf monkey" 26.3 acceptable NA NA
+Colobus guereza 10.28125 NA NA 0.0839 Guereza 35 high 10623.6 17.037
+Colobus angolensis 9.67 NA NA 0.0744 "Angolan colobus" 35.3 acceptable NA NA
+Tragelaphus eurycerus 253 NA NA 0.389 Bongo 21.9 high NA NA
+Tarsius bancanus 0.0776 NA NA 0.0027 NA NA NA NA NA
+Nycticebus pygmaeus 0.48 NA NA 0.0078 "Pygmy slow loris" 19.3 acceptable NA NA
+Choloepus didactylus 5.07 NA NA 0.0282 "Southern two-toed sloth" 36.8 acceptable NA NA
+Macropus parma 3.76 NA NA 0.0174 "Parma wallaby" 15.9 high NA NA
+Wallabia bicolor 16.4 NA NA 0.0327 "Swamp wallaby" 16.8 acceptable NA NA
+Nycticebus coucang 0.6555 NA NA 0.01274 "Slow loris" 25.8 acceptable 1128.6 1.504
+Perodicticus potto 0.92933 NA NA 0.012070000000000001 Potto 32.4 acceptable 968.6 1.942
+Macaca maura 6.846 NA NA 0.09448 "Moor macaque" 33 acceptable NA NA
+Leontopithecus rosalia 0.51238 NA NA 0.01305 "Golden lion tamarin" 31.6 high NA NA
+Alouatta caraya 5.0125 NA NA 0.0507 "Black howler monkey" 32.4 acceptable NA NA
+Lemur catta 2.09 NA NA 0.02163 "Ring-tailed lemur" 37.3 high NA NA
+Erythrocebus patas 7.376 NA NA 0.1002 "Patas monkey" 28.3 acceptable 3000 5.958
+Callithrix pygmaea 0.13475 NA NA 0.00464 NA NA NA NA NA
+Loris tardigradus 0.322 NA NA 0.006 "Slender loris" 21.6 acceptable 284 0.714
+Cheirogaleus medius 0.17967 NA NA 0.00334 "Fat-tailed dwarf lemur" 29 acceptable 300 1.088
+Dasyurus spartacus 0.487 NA NA 0.0054908 NA NA NA NA NA
+Thylamys pallidior 0.0207 NA NA 7.4592e-4 NA NA NA NA NA
+Petaurus biacensis 0.0845 NA NA 0.00174048 NA NA NA NA NA
+Petaurus abidi 0.284 NA NA 0.00396788 NA NA NA NA NA
+Phalanger rothschildi 1.244 NA NA 0.00636104 NA NA NA NA NA
+Strigocuscus pelengensis 0.991 NA NA 0.00644392 NA NA NA NA NA
+Phalanger intercastellanus 1.434 NA NA 0.0076146 NA NA NA NA NA
+Spilocuscus kraemeri 1.547 NA NA 0.011914 NA NA NA NA NA
+Rhynchomeles prattorum 0.907 NA NA 0.0050764 NA NA NA NA NA
+Planigale tenuirostris 0.0039 NA NA 1.4504e-4 "Narrow-nosed planigale" 5.2 acceptable 7.1 0.063
+Planigale ingrami 0.0041 NA NA 1.554e-4 "Long-tailed planigale" NA low 8.8 0.065
+Planigale gilesi 0.0061 NA NA 1.7612e-4 "Paucident planigale" NA low 9.1 0.058
+Planigale maculata 0.0067 NA NA 2.072e-4 "Pygmy planigale" 5.8 acceptable 10.6 0.067
+Ningaui ridei 0.004 NA NA 2.4864e-4 "Wongai ningaui" NA low NA NA
+Ningaui yvonneae 0.0078 NA NA 2.6936e-4 NA NA NA NA NA
+Planigale novaeguineae 0.0086 NA NA 2.7972e-4 NA NA NA NA NA
+Sminthopsis virginiae 0.0105 NA NA 3.5224e-4 "Red-cheeked dunnart" 5.3 acceptable NA NA
+Sminthopsis bindi 0.0136 NA NA 3.626e-4 NA NA NA NA NA
+Sminthopsis douglasi 0.0171 NA NA 3.626e-4 "Julia Creek dunnart" NA low NA NA
+Sminthopsis crassicaudata 0.0133 NA NA 3.7296e-4 "Fat-tailed dunnart" 5 acceptable 16 0.121
+Sminthopsis macroura 0.017 NA NA 4.144e-4 "Stripe-faced dunnart" 4.9 acceptable 20.6 0.128
+Sminthopsis hirtipes 0.009 NA NA 4.2476e-4 NA NA NA NA NA
+Sminthopsis leucopus 0.0124 NA NA 4.2476e-4 NA NA NA NA NA
+Parantechinus roryi 0.0166 NA NA 4.3512e-4 NA NA NA NA NA
+Sminthopsis murina 0.0159 NA NA 4.5584e-4 NA NA NA NA NA
+Antechinomys laniger 0.0178 NA NA 4.8692e-4 Kultarr 3.5 acceptable 25.8 0.141
+Sminthopsis griseoventer 0.0198 NA NA 5.0764e-4 "Gray-bellied dunnart" 3.6 acceptable NA NA
+Parantechinus macdonnellensis 0.024 NA NA 5.0764e-4 NA NA NA NA NA
+Parantechinus rosamondae 0.0199 NA NA 5.5944e-4 NA NA NA NA NA
+Antechinus agilis 0.0221 NA NA 5.8016e-4 "Agile antechinus" 4.7 acceptable NA NA
+Antechinus bellus 0.0458 NA NA 6.5268e-4 "Fawn antechinus" 3.4 acceptable NA NA
+Antechinus flavipes 0.0307 NA NA 6.6304e-4 "Yellow-footed antechinus" 3.9 acceptable 46.5 0.252
+Parantechinus bilarni 0.0294 NA NA 6.734e-4 NA NA NA NA NA
+Antechinus melanurus 0.0258 NA NA 6.734e-4 NA NA NA NA NA
+Antechinus subtropicus 0.0291 NA NA 7.4592e-4 NA NA NA NA NA
+Antechinus minimus 0.0363 NA NA 7.6664e-4 "Swamp antechinus" NA low NA NA
+Antechinus leo 0.0602 NA NA 7.77e-4 "Cinnamon antechinus" NA low NA NA
+Antechinus stuartii 0.0298 NA NA 7.8736e-4 "Brown antechinus" 5.4 acceptable 25 0.189
+Antechinus naso 0.0363 NA NA 7.9772e-4 NA NA NA NA NA
+Phascogale calura 0.0438 NA NA 9.4276e-4 "Red-tailed phascogale" 4.7 acceptable NA NA
+Antechinus swainsonii 0.0635 NA NA 0.00112924 "Dusky antechinus" 3.3 acceptable 66.9 0.351
+Murexia rothschildi 0.062 NA NA 0.0010878 NA NA NA NA NA
+Phascolosorex dorsalis 0.0475 NA NA 0.00114996 NA NA NA NA NA
+Parantechinus apicalis 0.0605 NA NA 0.0012432 "Southern dibbler" 5.5 acceptable NA NA
+Dasycercus cristicauda 0.07 NA NA 0.00128464 Mulgara 7.4 acceptable 91 0.26
+Dasyuroides byrnei 0.0984 NA NA 0.001554 Kowari 8 acceptable 100 0.439
+Murexia longicaudata 0.2965 NA NA 0.00174048 NA NA NA NA NA
+Phascogale tapoatafa 0.15 NA NA 0.00187516 "Brush-tailed phascogale" 5.9 acceptable 153.7 0.694
+Myoictis melas 0.1311 NA NA 0.0021238 NA NA NA NA NA
+Neophascogale lorentzi 0.2064 NA NA 0.0025382 NA NA NA NA NA
+Dasyurus hallucatus 0.513 NA NA 0.00350168 "Northern quoll" 5.9 acceptable 571 1.501
+Dasyurus albopunctatus 0.403 NA NA 0.00392644 NA NA NA NA NA
+Myrmecobius fasciatus 0.4054 NA NA 0.004403 Numbat 11 acceptable 438.2 0.907
+Dasyurus geoffroii 0.76 NA NA 0.00535612 "Western quoll" 6.2 acceptable 1326.7 2.991
+Dasyurus viverrinus 0.813 NA NA 0.00552188 "Eastern quoll" 6.8 acceptable 945.3 2.26
+Dasyurus maculatus 2.599 NA NA 0.00974876 "Australian tiger cat" 6.8 acceptable 1782 3.142
+Sarcophilus harrisii 7.43 NA NA 0.01666924 "Tasmanian devil" 13 acceptable 6126.8 8.664
+Thylacinus cynocephalus 28.496 NA NA 0.05303284 NA NA NA NA NA
+Marmosa elegans 0.0201 NA NA 7.3556e-4 NA NA NA NA NA
+Thylamys elegans 0.025 NA NA 7.3556e-4 NA NA NA NA NA
+Monodelphis brevicaudata 0.0646 NA NA 9.324e-4 "Short bare-tailed opossum" 3.9 acceptable 91.5 0.366
+Marmosa mexicana 0.0467 NA NA 0.001036 "Mexican mouse opossum" NA low NA NA
+Marmosa murina 0.06 NA NA 0.0011396 "Murine mouse opossum" 3.6 questionable NA NA
+Marmosa rubra 0.06 NA NA 0.0012432 NA NA NA NA NA
+Caluromys derbianus 0.289 NA NA 0.0035224 "Central American woolly opossum" 8.7 acceptable 342.7 1.194
+Caluromys philander 0.277 NA NA 0.003626 "Bare-tailed woolly opossum" 8.9 acceptable NA NA
+Metachirus nudicaudatus 0.39 NA NA 0.003626 "Brown four-eyed opossum" 3 acceptable 336 1.144
+Philander opossum 0.57 NA NA 0.00396788 "Gray four-eyed opossum" 4.4 acceptable 751 1.886
+Didelphis marsupialis 2.842 NA NA 0.0065786 "Southern opossum" 4.2 acceptable 1244.3 3.31
+Didelphis virginiana 2.797 NA NA 0.00696192 "Virginia opossum" 6.6 acceptable 2846.6 5.299
+Cercartetus concinnus 0.0095 NA NA 3.108e-4 NA NA NA NA NA
+Acrobates pygmaeus 0.0089 NA NA 3.626e-4 "Pygmy gliding possum" 8.8 high 14 0.084
+Cercartetus lepidus 0.0078 NA NA 3.7296e-4 NA NA NA NA NA
+Tarsipes rostratus 0.009 NA NA 3.7296e-4 "Honey possum" NA low 10 0.162
+Cercartetus nanus 0.012 NA NA 4.4548e-4 "Eastern pygmy possum" 10.3 acceptable 64.8 0.311
+Cercartetus caudatus 0.0193 NA NA 7.3556e-4 "Long-tailed pygmy possum" NA low NA NA
+Distoechurus pennatus 0.0454 NA NA 9.7384e-4 "Feather-tailed possum" NA low NA NA
+Burramys parvus 0.0366 NA NA 0.001036 "Mountain pygmy possum" 12 acceptable 44.3 0.205
+Pseudochirulus canescens 0.141 NA NA 0.0018648 NA NA NA NA NA
+Pseudochirulus mayeri 0.125 NA NA 0.00208236 NA NA NA NA NA
+Petaurus breviceps 0.0891 NA NA 0.00216524 "Sugar glider" 17.8 high 129.3 0.517
+Pseudochirulus schlegeli 0.246 NA NA 0.0029008 NA NA NA NA NA
+Gymnobelideus leadbeateri 0.0905 NA NA 0.0029526 "Leadbeater's possum" 14.1 acceptable 166 0.574
+Petaurus norfolcensis 0.191 NA NA 0.00312872 "Squirrel glider" 14.8 acceptable NA NA
+Hemibelideus lemuroides 0.496 NA NA 0.0032634 "Lemuroid ringtail possum" 5.4 acceptable NA NA
+Pseudochirulus caroli 0.44 NA NA 0.0033152 NA NA NA NA NA
+Pseudochirulus forbesi 0.523 NA NA 0.00348096 NA NA NA NA NA
+Pseudochirulus herbertensis 0.9 NA NA 0.00447552 NA NA NA NA NA
+Dactylonax tatei 0.252 NA NA 0.0046102 NA NA NA NA NA
+Pseudocheirus peregrinus 0.526 NA NA 0.00468272 "Ring-tailed possum" 10.1 acceptable 859.3 2.27
+Pseudochirops albertisii 0.713 NA NA 0.00484848 NA NA NA NA NA
+Petauroides volans 0.9 NA NA 0.00485884 "Greater glider" NA low 1140.5 3.191
+Petropseudes dahli 2 NA NA 0.005219368 NA NA NA NA NA
+Pseudochirops coronatus 1.5 NA NA 0.00531468 NA NA NA NA NA
+Pseudochirops corinnae 0.943 NA NA 0.00555296 NA NA NA NA NA
+Petaurus australis 0.39 NA NA 0.00591556 "Yellow-bellied glider" 15 acceptable NA NA
+Dactylonax trivirgata 0.506 NA NA 0.00603988 NA NA NA NA NA
+Pseudochirops archeri 0.678 NA NA 0.00608132 NA NA NA NA NA
+Phalanger lullulae 1.4 NA NA 0.00630924 NA NA NA NA NA
+Potorous platyops 0.8 NA NA 0.0065268 NA NA NA NA NA
+Dactylonax palpator 0.474 NA NA 0.00715876 NA NA NA NA NA
+Lagostrophus fasciatus 0.773 NA NA 0.007252 "Banded hare-wallaby" NA low NA NA
+Phalanger ornatus 1.448 NA NA 0.00727272 NA NA NA NA NA
+Phalanger orientalis 1.485 NA NA 0.00763532 "Gray cuscus" NA low NA NA
+Pseudochirops cupreus 1.021 NA NA 0.00781144 NA NA NA NA NA
+Lagorchestes hirsutus 1.05 NA NA 0.00804972 "Rufous hare-wallaby" 13.2 acceptable NA NA
+Phalanger mimicus 1.473 NA NA 0.0092204 NA NA NA NA NA
+Phalanger carmelitae 1.754 NA NA 0.00879564 NA NA NA NA NA
+Bettongia tropica 1.015 NA NA 0.00924112 "Northern bettong" NA low NA NA
+Potorous tridactylus 1.283 NA NA 0.00987308 "Long-nosed potoroo" 14.5 acceptable 1045.5 2.556
+Phalanger vestitus 1.85 NA NA 0.00988344 NA NA NA NA NA
+Bettongia penicillata 0.981 NA NA 0.00990416 Woylie 18.8 acceptable 1018 3.132
+Phalanger sericeus 1.896 NA NA 0.01031856 NA NA NA NA NA
+Wyulda squamicaudata 1.5 NA NA 0.0104636 "Scaly-tailed possum" NA low NA NA
+Onychogalea lunata 1.313 NA NA 0.0105672 NA NA NA NA NA
+Bettongia lesueur 1.105 NA NA 0.010878 "Burrowing bettong" NA low NA NA
+Petrogale concinna 1.407 NA NA 0.011396 Nabarlek 11.7 acceptable NA NA
+Trichosurus vulpecula 1.902 NA NA 0.011396 "Brush-tailed possum" 15.9 acceptable 1993.5 3.8
+Bettongia gaimardi 1.273 NA NA 0.0121212 "Tasmanian bettong" NA low 1385 3.578
+Dorcopsulus vanheurni 1.546 NA NA 0.0122248 NA NA NA NA NA
+Trichosurus caninus 2.515 NA NA 0.0122248 "Mountain brush-tailed possum" NA low NA NA
+Aepyprymnus rufescens 1.693 NA NA 0.0127428 "Rufous 'rat'-kangaroo" 12.8 acceptable 2820 5.978
+Lagorchestes leporides 1.598 NA NA 0.0130536 NA NA NA NA NA
+Phalanger gymnotis 3.264 NA NA 0.013468 "Ground cuscus" 18.9 acceptable NA NA
+Spilocuscus maculatus 3.127 NA NA 0.0138824 "Spotted cuscus" 17 acceptable 4250 6.27
+Dorcopsulus macleayi 2.5 NA NA 0.013986 "Papuan mountain wallaby" 7.9 acceptable NA NA
+Setonix brachyurus 1.931 NA NA 0.0144004 Quokka 13.8 acceptable 2702.3 4.695
+Lagorchestes conspicillatus 2.015 NA NA 0.014504 "Spectacled hare-wallaby" 8.8 acceptable 2660 4.749
+Onychogalea fraenata 3.484 NA NA 0.0152292 "Ridled nail-tailed wallaby" 7.4 acceptable NA NA
+Petrogale brachyotis 2.494 NA NA 0.01554 "Western rock wallaby" 10.1 acceptable NA NA
+Dorcopsis atrata 6.333 NA NA 0.0173012 NA NA NA NA NA
+Onychogalea unguifera 5.242 NA NA 0.0173012 "Northern nail-tailed wallaby" 5.5 acceptable NA NA
+Spilocuscus rufoniger 6.181 NA NA 0.0174048 NA NA NA NA NA
+Petrogale mareeba 3.186 NA NA 0.017612 NA NA NA NA NA
+Petrogale inornata 2.262 NA NA 0.017612 NA NA NA NA NA
+Thylogale brunii 5 NA NA 0.01813 "Dusky pademelon" 9.4 acceptable NA NA
+Petrogale assimilis 2.765 NA NA 0.01813 "Allied rock wallaby" NA low NA NA
+Thylogale stigmatica 4.416 NA NA 0.0184408 "Red-legged pademelon" 9.7 acceptable NA NA
+Petrogale godmani 3.276 NA NA 0.018648 NA NA NA NA NA
+Thylogale browni 3.742 NA NA 0.0189588 NA NA NA NA NA
+Dendrolagus bennettianus 2.078 NA NA 0.019166 "Bennett's tree kangaroo" NA low NA NA
+Macropus parma 3.557 NA NA 0.0193732 "Parma wallaby" 15.9 high NA NA
+Petrogale lateralis 3.61 NA NA 0.0198912 "Black-footed rock wallaby" NA low NA NA
+Thylogale thetis 3.694 NA NA 0.0198912 "Red-necked pademelon" 9 acceptable NA NA
+Phascolarctos cinereus 5.888 NA NA 0.0209272 Koala 22.1 high 4732.4 5.744
+Dorcopsis muelleri 5.4 NA NA 0.0211344 "Brown dorcopsis" 12.4 acceptable NA NA
+Dorcopsis luctuosa 7.392 NA NA 0.0213416 "Gray dorcopsis" 13.9 acceptable NA NA
+Petrogale herberti 3.977 NA NA 0.0219632 NA NA NA NA NA
+Petrogale persephone 5.732 NA NA 0.022274 NA NA NA NA NA
+Thylogale billardieri 3.618 NA NA 0.0228956 NA NA NA NA NA
+Dorcopsis hageni 6.43 NA NA 0.02331 NA NA NA NA NA
+Petrogale xanthopus 4.65 NA NA 0.023828 "Ringtailed rock wallaby" 14.4 acceptable NA NA
+Macropus eugenii 4.425 NA NA 0.0245532 "Tammar wallaby" 15.1 acceptable 4796 7.78
+Petrogale penicillata 5.99 NA NA 0.0247604 "Brush-tailed rock wallaby" 14.3 acceptable NA NA
+Macropus irma 4.684 NA NA 0.0255892 NA NA NA NA NA
+Macropus greyi 9.016 NA NA 0.0259 NA NA NA NA NA
+Dendrolagus lumholtzi 4.366 NA NA 0.0271432 NA NA NA NA NA
+Dendrolagus ursinus 5.009 NA NA 0.0272468 "Black tree kangaroo" 20 acceptable NA NA
+Dendrolagus matschiei 4.16 NA NA 0.02849 "Matschie's tree kangaroo" 26.9 acceptable 6960 7.96
+Dendrolagus goodfellowi 5.968 NA NA 0.0294224 "Goodfellow's tree kangaroo" 23.6 acceptable NA NA
+Dendrolagus spadix 4.947 NA NA 0.029526 NA NA NA NA NA
+Dendrolagus scottae 8.666 NA NA 0.0302512 NA NA NA NA NA
+Macropus dorsalis 8.728 NA NA 0.0302512 "Black-striped wallaby" NA low NA NA
+Dendrolagus inustus 10.119 NA NA 0.0311836 "Grizzled tree kangaroo" 23.8 acceptable NA NA
+Dendrolagus dorianus 7.879 NA NA 0.0334628 "Doria's tree kangaroo" 19 acceptable NA NA
+Wallabia bicolor 8.949 NA NA 0.0340844 "Swamp wallaby" 16.8 acceptable NA NA
+Macropus agilis 14.066 NA NA 0.0344988 "Agile wallaby" 16.9 acceptable NA NA
+Macropus rufogriseus 12.09 NA NA 0.037296 "Red-necked wallaby" 15.2 acceptable NA NA
+Macropus parryi 15.194 NA NA 0.0427868 "Whiptail wallaby" NA low NA NA
+Lasiorhinus latifrons 19.264 NA NA 0.057498 "Southern hairy-nosed wombat" 29.9 acceptable 27348.2 16.001
+Macropus antilopinus 31.286 NA NA 0.0588448 "Antilopine wallaroo" 19.8 acceptable NA NA
+Macropus fuliginosus 31.04 NA NA 0.060088 "Western gray kangaroo" 23.2 high NA NA
+Macropus robustus 35.54 NA NA 0.061124 Wallaroo 22 acceptable 29647.9 33.056
+Vombatus ursinus 27.192 NA NA 0.061124 "Coarse-haired wombat" 30 acceptable NA NA
+Macropus rufus 44.841 NA NA 0.0646464 "Red kangaroo" 25 high 28500 31.353
+Macropus giganteus 38.977 NA NA 0.0723128 "Eastern gray kangaroo" 25 high NA NA
+Dromiciops gliroides 0.0214 NA NA 8.3916e-4 "Monito del monte" NA low NA NA
+Notoryctes caurinus 0.055 NA NA 8.0808e-4 NA NA NA NA NA
+Rhyncholestes raphanurus 0.02 NA NA 6.734e-4 NA NA NA NA NA
+Caenolestes fuliginosus 0.0179 NA NA 7.0448e-4 NA NA NA NA NA
+Chaeropus ecaudatus 0.327 NA NA 0.0024864 NA NA NA NA NA
+Perameles bougainville 0.457 NA NA 0.00332556 "Western barred bandicoot" 5.8 acceptable NA NA
+Echymipera kalubu 0.697 NA NA 0.00380212 "New Guinea spiny bandicoot" NA low NA NA
+Echymipera rufescens 0.798 NA NA 0.00386428 "Long-nosed echymipera" 3.1 acceptable 886.6 2.255
+Microperoryctes longicauda 0.479 NA NA 0.00394716 NA NA NA NA NA
+Macrotis leucura 0.877 NA NA 0.0044548 NA NA NA NA NA
+Isoodon macrourus 0.822 NA NA 0.00457912 "Northern brown bandicoot" 6.8 acceptable 1551 3.202
+Echymipera clara 1.207 NA NA 0.00464128 NA NA NA NA NA
+Perameles gunnii 1.002 NA NA 0.004662 "Eastern barred bandicoot" 6.1 acceptable 695 1.902
+Perameles nasuta 0.96 NA NA 0.00513856 "Long-nosed bandicoot" 5.6 acceptable 645 1.763
+Peroryctes raffrayana 0.977 NA NA 0.00655788 "Raffray's bandicoot" 3.2 questionable NA NA
+Macrotis lagotis 1.859 NA NA 0.00680652 "Rabbit-bandicoot or bilby" 9.6 acceptable 1245.5 2.4
+Antechinus wilhelmina 0.0182 NA NA 8.0808e-4 NA NA NA NA NA
+Isoodon obesulus 0.691 NA NA 0.00403004 "Southern brown bandicoot" 6.5 acceptable 717 1.238
+Marmosa mitis 0.0505 NA NA 7.252e-4 NA NA NA NA NA
+Petauroides volans 0.631 NA NA 0.00521108 "Greater glider" NA low 1140.5 3.191
+Petrogale venusta 2.127 NA NA 0.017094 NA NA NA NA NA
+Pseudocheirus occidentalis 0.759 NA NA 0.00578088 NA NA NA NA NA
+Trichosurus fuliginosus 3.492 NA NA 0.012432 NA NA NA NA NA
+Solenodon paradoxus 0.9 NA NA 0.00467 "Hispaniolan solenodon" 12.1 acceptable NA NA
+Tenrec ecaudatus 0.832 NA NA 0.00257 Tenrec 8.7 acceptable 650 0.729
+Setifer setosus 0.248 NA NA 0.00151 "Greater hedgehog tenrec" 14.1 acceptable 427.6 0.573
+Hemicentetes semispinosus 0.11 NA NA 8.3e-4 "Streaked tenrec" 2.7 questionable 116.4 0.38
+Echinops telfairi 0.0875 NA NA 6.2e-4 "Lesser hedgehog tenrec" 19 acceptable 116.4 0.75
+Oryzorictes hova 0.0442 NA NA 5.8e-4 NA NA NA NA NA
+Microgale cowani 0.0152 NA NA 4.2e-4 NA NA NA NA NA
+Microgale dobsoni 0.0326 NA NA 5.6e-4 "Dobson's shrew tenrec" 5.6 acceptable 44.6 0.315
+Limnogale mergulus 0.092 NA NA 0.00115 NA NA NA NA NA
+Potamogale velox 0.66 NA NA 0.0041 NA NA NA NA NA
+Erinaceus europaeus 0.86 NA NA 0.00335 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Sorex minutus 0.0053 NA NA 1e-4 "Eurasian pygmy shrew" NA low 4.1 0.179
+Sorex araneus 0.0103 NA NA 2e-4 "Eurasian shrew" 3.2 acceptable 8.4 0.348
+Blarina brevicauda 0.0185 NA NA 3.7e-4 "Northern short-tailed shrew" 2.2 acceptable 20.9 0.344
+Neomys fodiens 0.0152 NA NA 3.2e-4 "Eurasian water shrew" 3.1 acceptable 16 0.328
+Sylvisorex megalura 0.0053 NA NA 1.5e-4 NA NA NA NA NA
+Sylvisorex lunaris 0.0185 NA NA 3.4e-4 NA NA NA NA NA
+Suncus murinus 0.0355 NA NA 3.8e-4 "Asian house shrew" 3.2 acceptable 39.7 0.403
+Crocidura hildegardeae 0.0106 NA NA 2.2e-4 NA NA NA NA NA
+Crocidura russula 0.011 NA NA 1.9e-4 "White-toothed shrew" 4 acceptable 10.8 0.143
+Crocidura niobe 0.0115 NA NA 2.8e-4 NA NA NA NA NA
+Crocidura jacksoni 0.0126 NA NA 2.5e-4 NA NA NA NA NA
+Crocidura occidenlalis 0.028 NA NA 4.4e-4 NA NA NA NA NA
+Crocidura giffardi 0.082 NA NA 5.5e-4 NA NA NA NA NA
+Crocidura pyrenaicus 0.0575 NA NA 0.00133 NA NA NA NA NA
+Desmana moschata 0.44 NA NA 0.004 NA NA NA NA NA
+Talpa europaea 0.076 NA NA 0.00102 "European mole" NA low NA NA
+Scalopus aquaticus 0.0396 NA NA 0.00116 "Eastern mole" NA low 48 0.378
+Chrysochloris asiatica 0.049 NA NA 7e-4 NA NA NA NA NA
+Chrysochloris stuhlmanni 0.0398 NA NA 7.4e-4 NA NA NA NA NA
+Elephantulus fuscipes 0.057 NA NA 0.00133 NA NA NA NA NA
+Rhynchocyon stuhlmanni 0.49 NA NA 0.0061 NA NA NA NA NA
+Tupaia javanica 0.105 NA NA 0.00255 NA NA NA NA NA
+Tupaia glis 0.15 NA NA 0.00315 "Common tree shrew" 12.4 acceptable 123 0.522
+Urogale everetti 0.275 NA NA 0.00428 "Mindanao tree shrew" 11.5 acceptable 260.6 1.25
+Cheirogaleus medius 0.177 NA NA 0.00314 "Fat-tailed dwarf lemur" 29 acceptable 300 1.088
+Cheirogaleus major 0.45 NA NA 0.0068 "Greater dwarf lemur" 13.4 questionable NA NA
+Microcebus murinus 0.054 NA NA 0.00178 "Gray mouse lemur" 18.2 acceptable NA NA
+Prolemur simus 1.3 NA NA 0.00953 "Greater bamboo lemur" 17.6 acceptable NA NA
+Lepilemur ruficaudatus 0.915 NA NA 0.0076 "Red-tailed sportive lemur" NA low NA NA
+Eulemur fulvus 1.4 NA NA 0.0233 "Brown lemur" 35.5 acceptable 2374.1 4.239
+Eulemur albifrons 1.54 NA NA 0.0223 NA NA NA NA NA
+Eulemur rufiventer 1.4 NA NA 0.0266 NA NA NA NA NA
+Eulemur mongoz 1.6 NA NA 0.0241 "Mongoose lemur" 36.2 acceptable NA NA
+Eulemur catta 1.96 NA NA 0.022 NA NA NA NA NA
+Eulemur macaco 2.04 NA NA 0.0235 "Black lemur" 37.5 acceptable NA NA
+Eulemur variegatus 3 NA NA 0.0315 NA NA NA NA NA
+Avahi occidentalis 0.86 NA NA 0.00967 NA NA NA NA NA
+Avahi laniger 1.27 NA NA 0.01145 NA NA NA NA NA
+Propithecus coquereli 3.48 NA NA 0.0267 NA NA NA NA NA
+Indri indri 6.25 NA NA 0.0383 NA NA NA NA NA
+Daubentonia madagascariensis 2.8 NA NA 0.04515 Aye-aye 32.3 acceptable NA NA
+Loris tardigradus 0.322 NA NA 0.0066 "Slender loris" 21.6 acceptable 284 0.714
+Nycticebus coucang 0.6 NA NA 0.0125 "Slow loris" 25.8 acceptable 1128.6 1.504
+Perodicticus potto 1.15 NA NA 0.014 Potto 32.4 acceptable 968.6 1.942
+Galagoides demidovii 0.081 NA NA 0.00338 NA NA NA NA NA
+Galagoides senegalensis 0.186 NA NA 0.0048 NA NA NA NA NA
+Galagoides crassicaudatus 0.85 NA NA 0.0103 NA NA NA NA NA
+Carlito syrichta 0.0875 NA NA 0.00363 "Philippine tarsier" 16 acceptable 113 0.43
+Tarsius spectrum 0.17 NA NA 0.00465 NA NA NA NA NA
+Artibeus jamaicensis 0.0375 NA NA 0.00093000000000000005 "Jamaican fruit-eating bat" 19.2 acceptable 46.1 0.359
+Artibeus lituratus 0.0587 NA NA 0.00105 "Great fruit-eating bat" NA low 70.1 0.602
+Carollia perspicillata 0.016 NA NA 4.7e-4 "Seba's short-tailed bat" 17 high 14.9 0.24
+Casinycteris argynnis 0.0405 NA NA 9.2e-4 NA NA NA NA NA
+Cynopterus brachyotis 0.029 NA NA 8.8e-4 "Lesser short-nosed fruit bat" 10.1 acceptable 37.2 0.262
+Cynopterus horsfieldi 0.053 NA NA 0.00123 NA NA NA NA NA
+Diaemus youngi 0.0346 NA NA 9.7e-4 NA NA NA NA NA
+Diaemus rotundus 0.03 NA NA 8.6e-4 NA NA NA NA NA
+Eonycteris spelea 0.05 NA NA 0.00118 NA NA NA NA NA
+Glossophaga soricina 0.0112 NA NA 3.9e-4 "Pallas's long-tongued bat" 11 acceptable 9.6 0.164
+Hipposideros bicolor 0.0084 NA NA 2.4e-4 NA NA NA NA NA
+Hipposideros caffer 0.0107 NA NA 3.2e-4 NA NA NA NA NA
+Hypsignathus monstrosus 0.34 NA NA 0.0034 "Hammer-headed fruit bat" NA low NA NA
+Leptonycteris curasoae 0.0245 NA NA 5.5e-4 "Southern long-nosed bat" 10.1 acceptable NA NA
+Mimon crenulatum 0.0148 NA NA 3.4e-4 NA NA NA NA NA
+Mormoops megalophylla 0.0156 NA NA 4.2e-4 NA NA NA NA NA
+Myotis bechsteini 0.0075 NA NA 2.65e-4 NA NA NA NA NA
+Myotis bocagei 0.0076 NA NA 2.1e-4 NA NA NA NA NA
+Myotis dasycneme 0.015 NA NA 3.1e-4 "Pond bat" 20.5 acceptable NA NA
+Myotis daubentoni 0.007 NA NA 2.3e-4 NA NA NA NA NA
+Myotis myotis 0.025 NA NA 4.8e-4 "Mouse-eared bat" 37.1 acceptable NA NA
+Myotis mystacinus 0.004 NA NA 1.6e-4 "Whiskered bat" 24 acceptable NA NA
+Myotis nattereri 0.007 NA NA 2.2e-4 "Natterer's bat" 23.7 acceptable NA NA
+Myotis nigricans 0.0045 NA NA 1.2e-4 "Black myotis" 7 acceptable 3.7 0.027
+Noctilio leporinus 0.0585 NA NA 0.00126 "Greater bulldog bat" 11.8 acceptable 61 0.4
+Nycteris arge 0.0106 NA NA 3.6e-4 NA NA NA NA NA
+Nyctalus noctula 0.025 NA NA 3.69e-4 Noctule 12 acceptable NA NA
+Phyllostomus discolor 0.033 NA NA 8.9e-4 "Pale spear-nosed bat" 9 acceptable 33.5 0.267
+Pteronotus davyi 0.0106 NA NA 3.1e-4 NA NA NA NA NA
+Rhinolophus hipposideros 0.00715 NA NA 2.35e-4 "Lesser horseshoe bat" 29.4 acceptable NA NA
+Rhynchonycteris naso 0.0043 NA NA 1.1e-4 NA NA NA NA NA
+Rousettus aegyptiacus 0.13 NA NA 0.0026 "Egyptian rousette" 22.9 acceptable 146 0.684
+Saccopteryx bilineata 0.008 NA NA 2.2e-4 "Greater sac-winged bat" 6 acceptable 7.8 0.081
+Sturnira lilium 0.0171 NA NA 5.2e-4 "Little yellow-shouldered bat" 12 acceptable 21.4 0.237
+Uroderma bilobatum 0.0164 NA NA 5.3e-4 NA NA NA NA NA
+Vampyrops helleri 0.0116 NA NA 4.2e-4 NA NA NA NA NA
+Vespertilio serotinus 0.0234 NA NA 3.1e-4 NA NA NA NA NA
+Vespertilio murinus 0.0333 NA NA 4.45e-4 "Particolored bat" 14.5 questionable NA NA
+Scotophilus gigas 0.101 NA NA 0.001046 NA NA NA NA NA
+Miniopterus schreibers 0.0127 NA NA 2.9e-4 NA NA NA NA NA
+Tadarida albiventer 0.0115 NA NA 2.2e-4 NA NA NA NA NA
+Chaerophon limbatus 0.0133 NA NA 2.9e-4 NA NA NA NA NA
+Chaerophon Ieucostigma 0.0265 NA NA 3.9e-4 NA NA NA NA NA
+Molossus major 0.013 NA NA 2.6e-4 NA NA NA NA NA
+Molossus ate 0.0281 NA NA 4.8e-4 NA NA NA NA NA
+Pteropus vampyru 1.22 NA NA 0.0102 NA NA NA NA NA
+Epomophorus gambianus 0.309 NA NA 0.00433 "Gambian epauletted fruit bat" 7.8 acceptable NA NA
+Pteropus edwarsi 0.287 NA NA 0.008 NA NA NA NA NA
+Semnopithecus entellus 7.01 NA NA 0.1115 "Hanuman langur" 29 acceptable NA NA
+Semnopithecus entellus 4.4 NA NA 0.105 "Hanuman langur" 29 acceptable NA NA
+Cercopithecus callitrichus 3 NA NA 0.0815 NA NA NA NA NA
+Cercopithecus griseoviridis 1.908 NA NA 0.06 NA NA NA NA NA
+Cercopithecus cynosurus 2.92 NA NA 0.072 NA NA NA NA NA
+Cercopithecus sabaeus 1.44 NA NA 0.0748 NA NA NA NA NA
+Cercopithecus rufoviridis 2.05 NA NA 0.051 NA NA NA NA NA
+Papio cynocephalus NA NA NA 0.197 NA NA NA NA NA
+Cercocebus fuliginosus 3.09 NA NA 0.1035 NA NA NA NA NA
+Cercocebus fuliginosus NA NA NA 0.1305 NA NA NA NA NA
+Cercocebus fuliginosus NA NA NA 0.1018 NA NA NA NA NA
+Cercocebus fuliginosus 2.25 NA NA 0.1 NA NA NA NA NA
+Cercocebus fuliginosus 7.735 NA NA 0.0926 NA NA NA NA NA
+Cercocebus fuliginosus 2.815 NA NA 0.085 NA NA NA NA NA
+Macaca fascicularis 4.035 NA NA 0.079 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 2.05 NA NA 0.0757 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 1.425 NA NA 0.0739 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 1.21 NA NA 0.066 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis NA NA NA 0.068 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 1.98 NA NA 0.0623 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis NA NA NA 0.056 "Long-tailed macaque" 39 acceptable NA NA
+Macaca fascicularis 2.49 NA NA 0.0537 "Long-tailed macaque" 39 acceptable NA NA
+Macaca pileatus 2.22 NA NA 0.0601 NA NA NA NA NA
+Macaca pileatus 1.72 NA NA 0.0562 NA NA NA NA NA
+Macaca sylvanus NA NA NA 0.0877 "Barbary macaque" 29.1 high NA NA
+Macaca rhesus NA NA NA 0.1057 NA NA NA NA NA
+Macaca rhesus 3.845 NA NA 0.1008 NA NA NA NA NA
+Macaca rhesus NA NA NA 0.097 NA NA NA NA NA
+Macaca rhesus 1.752 NA NA 0.0831 NA NA NA NA NA
+Macaca rhesus 2.634 NA NA 0.082 NA NA NA NA NA
+Macaca rhesus 1.86 NA NA 0.081 NA NA NA NA NA
+Macaca rhesus 2.625 NA NA 0.0802 NA NA NA NA NA
+Macaca rhesus 1.985 NA NA 0.0789 NA NA NA NA NA
+Macaca rhesus 1.42 NA NA 0.0784 NA NA NA NA NA
+Macaca assamensis 3.655 NA NA 0.0905 "Assam macaque" 31.4 acceptable NA NA
+Macaca leonina 2.05 NA NA 0.09 NA NA NA NA NA
+Macaca nemestrina 6.625 NA NA 0.117 "Pigtail macaque" 37.6 acceptable NA NA
+Ateles paniscus 2.55 NA NA 0.12 "Black spider monkey" 46 acceptable NA NA
+Ateles paniscus 2.035 NA NA 0.1083 "Black spider monkey" 46 acceptable NA NA
+Ateles paniscus 2.305 NA NA 0.1088 "Black spider monkey" 46 acceptable NA NA
+Cebus capucinus 1.92 NA NA 0.061 "White-faced capuchin" 54 acceptable NA NA
+Cebus capucinus 0.9697 NA NA 0.0637 "White-faced capuchin" 54 acceptable NA NA
+Cebus olivaceus 1.262 NA NA 0.0725 "Weeping capuchin" 47 acceptable NA NA
+Sapajus libidinosus 2.645 NA NA 0.0577 NA NA NA NA NA
+Sapajus libidinosus 2.52 NA NA 0.0965 NA NA NA NA NA
+Cebus apella NA NA NA 0.0665 NA NA NA NA NA
+Alouatta caraya 2.955 NA NA 0.0456 "Black howler monkey" 32.4 acceptable NA NA
+Lagothrix lagothricha 2.55 NA NA 0.0925 "Humboldt's woolly monkey" 32 acceptable NA NA
+Aotus trivirgatus 0.48 NA NA 0.0155 "Northern night monkey" 30.1 acceptable 914.5 2.499
+Saimiri sciureus 0.3285 NA NA 0.0235 "South American squirrel monkey" 30.2 high 836.7 4.429
+Saimiri sciureus 0.365 NA NA 0.0212 "South American squirrel monkey" 30.2 high 836.7 4.429
+Callithrix jacchus 0.242 NA NA 0.009 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.169 NA NA 0.0072 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.225 NA NA 0.0067 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.221 NA NA 0.009 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.155 NA NA 0.0073 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.187 NA NA 0.0076 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Callithrix jacchus 0.235 NA NA 0.0072 "White-tufted-ear marmoset" 22.8 high 190 0.848
+Leontopithecus rosalia NA NA NA 0.014 "Golden lion tamarin" 31.6 high NA NA
+Leontopithecus rosalia 0.407 NA NA 0.0127 "Golden lion tamarin" 31.6 high NA NA
+Midas ursulus 0.225 NA NA 0.0084 NA NA NA NA NA
+Propithecus coronatus NA NA NA 0.0316 NA NA NA NA NA
+Eulemur macaco 1.29 NA NA 0.0245 "Black lemur" 37.5 acceptable NA NA
+Eulemur macaco 1.2485 NA NA 0.024 "Black lemur" 37.5 acceptable NA NA
+Eulemur macaco 1.94 NA NA 0.022 "Black lemur" 37.5 acceptable NA NA
+Eulemur rufriventer 1.015 NA NA 0.0249 NA NA NA NA NA
+Eulemur rufriventer 1.79 NA NA 0.0283 NA NA NA NA NA
+Eulemur albifrons 1.54 NA NA 0.0223 NA NA NA NA NA
+Eulemur mongoz 1.808 NA NA 0.0232 "Mongoose lemur" 36.2 acceptable NA NA
+Eulemur mongoz 1.305 NA NA 0.0258 "Mongoose lemur" 36.2 acceptable NA NA
+Eulemur mongoz 1.565 NA NA 0.0231 "Mongoose lemur" 36.2 acceptable NA NA
+Lemur catta 2.35 NA NA 0.0208 "Ring-tailed lemur" 37.3 high NA NA
+Perodicticus potto 0.538 NA NA 0.0109 Potto 32.4 acceptable 968.6 1.942
+Nycticebus tardigradus 0.527 NA NA 0.0144 NA NA NA NA NA
+Nycticebus tardigradus 0.365 NA NA 0.0105 NA NA NA NA NA
+Pteropus giganteus 0.382 NA NA 0.01 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.414 NA NA 0.007 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.325 NA NA 0.0062 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.405 NA NA 0.0063 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.323 NA NA 0.0075 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.38 NA NA 0.0073 "Indian flying fox" 40 high 562.2 1.622
+Pteropus giganteus 0.395 NA NA 0.0068 "Indian flying fox" 40 high 562.2 1.622
+Erinaceus europaeus 0.718 NA NA 0.0065 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.669 NA NA 0.0036 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.515 NA NA 0.0035 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.497 NA NA 0.003 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.925 NA NA 0.0033 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.92 NA NA 0.0035 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.985 NA NA 0.0033 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.448 NA NA 0.0035 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Erinaceus europaeus 0.69 NA NA 0.003 "Western European hedgehog" 11.7 acceptable 1213.5 2.434
+Talpa europaea 0.077 NA NA 0.0015 "European mole" NA low NA NA
+Ailurus fulgens 5.59 NA NA 0.0468 "Red panda" 19 high 5740 4.898
+Mustela putorius NA NA NA 0.0075 "European polecat" 11.1 acceptable NA NA
+Mustela putorius 0.415 NA NA 0.0066 "European polecat" 11.1 acceptable NA NA
+Mustela erminea 0.179 NA NA 0.0046 Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.098 NA NA 0.004 Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.102 NA NA 0.0033 Ermine 12.5 acceptable 125.5 1.276
+Galictis vittata 0.92 NA NA 0.0153 "Greater grison" 12.5 acceptable NA NA
+Eira barbara 2 NA NA 0.0442 Tayra 22.3 acceptable 2950 6.811
+Canis mesomelas 8 NA NA 0.0548 "Black-backed jackal" 16.7 acceptable 7720 21.533
+Vulpes vulpes 2.91 NA NA 0.0468 "Red fox" 21.3 acceptable 4580.3 13.731
+Vulpes vulpes 2.55 NA NA 0.0436 "Red fox" 21.3 acceptable 4580.3 13.731
+Vulpes vulpes 4.235 NA NA 0.0505 "Red fox" 21.3 acceptable 4580.3 13.731
+Vulpes vulpes NA NA NA 0.054 "Red fox" 21.3 acceptable 4580.3 13.731
+Mungos mungo 0.93 NA NA 0.0108 "Banded mongoose" 17.4 high NA NA
+Paradoxurus hermaphroditus 3.047 NA NA 0.0237 "Asian palm civet" 24.5 acceptable 3282.6 5.534
+Paradoxurus hermaphroditus NA NA NA 0.0282 "Asian palm civet" 24.5 acceptable 3282.6 5.534
+Dasyurus viverrinus NA NA NA 0.0048 "Eastern quoll" 6.8 acceptable 945.3 2.26
+Arctictis binturong NA NA NA 0.0424 Binturong 27 acceptable 14280 12.747
+Herpestes smithii 1.205 NA NA 0.0146 "Ruddy mongoose" 17.8 acceptable NA NA
+Genetta pardina 1.032 NA NA 0.0154 "Pardine genet" NA low NA NA
+Caracal caracal 7.67 NA NA 0.0519 Caracal 20.3 acceptable NA NA
+Felis silvestris 3.96 NA NA 0.032 "Wild cat" 19 acceptable NA NA
+Felis silvestris 3.62 NA NA 0.03 "Wild cat" 19 acceptable NA NA
+Felis silvestris 3.46 NA NA 0.0251 "Wild cat" 19 acceptable NA NA
+Felis silvestris 3.743 NA NA 0.0328 "Wild cat" 19 acceptable NA NA
+Felis silvestris 2.577 NA NA 0.0285 "Wild cat" 19 acceptable NA NA
+Felis silvestris 3.48 NA NA 0.0252 "Wild cat" 19 acceptable NA NA
+Felis silvestris 3.58 NA NA 0.0248 "Wild cat" 19 acceptable NA NA
+Felis silvestris 2.58 NA NA 0.0215 "Wild cat" 19 acceptable NA NA
+Panthera leo 84 NA NA 0.2595 Lion 27 high 98000 94.58
+Rubrisciurus rubriventer 0.365 NA NA 0.0069 NA NA NA NA NA
+Rubrisciurus rubriventer 0.365 NA NA 0.0065 NA NA NA NA NA
+Sciurus niger 0.328 NA NA 0.0072 "Eastern fox squirrel" 16 acceptable NA NA
+Marmota sibirica 1.89 NA NA 0.0181 NA NA NA NA NA
+Ictidomys tridecemlineatus 0.2 NA NA 0.0022 "Thirteen-lined ground squirrel" 7.9 acceptable 198.4 0.983
+Ictidomys tridecemlineatus 0.115 NA NA 0.0024 "Thirteen-lined ground squirrel" 7.9 acceptable 198.4 0.983
+Glis glis 0.148 NA NA 0.0019 "Fat dormouse" 8.7 acceptable 174.4 0.664
+Cricetus cricetus 0.297 NA NA 0.0022 "Black-bellied hamster" 3.6 acceptable 365.3 1.251
+Rattus norvegicus 0.465 NA NA 0.00875 "Norway rat" 3.8 acceptable 206.9 1.404
+Rattus norvegicus 0.254 NA NA 0.0073 "Norway rat" 3.8 acceptable 206.9 1.404
+Gerbillus gerbillus 0.095 NA NA 0.0034 "Lesser Egyptian gerbil" 5.9 acceptable 29.7 0.237
+Muscardinus avellanarius 0.013 NA NA 5e-4 "Hazel dormouse" 5.3 acceptable 23.5 0.351
+Allactaga saliens 0.193 NA NA 0.0035 NA NA NA NA NA
+Jaculus orientalis 0.098 NA NA 0.0025 "Greater Egyptian jerboa" 5.5 acceptable 139 0.775
+Capromys pilorides 0.155 NA NA 0.0045 "Desmarest's hutia" 13.8 acceptable 2630 3.375
+Atherurus africanus 3.629 NA NA 0.0253 "African brush-tailed porcupine" 22.9 acceptable NA NA
+Lagidium viscacia 2.252 NA NA 0.016 "Mountain viscacha" 19.5 acceptable NA NA
+Lagidium viscacia 2.35 NA NA 0.0152 "Mountain viscacha" 19.5 acceptable NA NA
+Lagidium viscacia 3.845 NA NA 0.0148 "Mountain viscacha" 19.5 acceptable NA NA
+Lagidium viscacia 1.395 NA NA 0.0143 "Mountain viscacha" 19.5 acceptable NA NA
+Cuniculus paca 5.635 NA NA 0.0358 "Lowland paca" 16.3 acceptable 9156 15.323
+Dolichotis patagonum NA NA NA 0.0305 "Patagonian mara" 14.4 high NA NA
+Cavia porcellus 0.348 NA NA 0.0064 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.648 NA NA 0.0041 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.493 NA NA 0.0038 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.1065 NA NA 0.0029 "Guinea pig" 12 high 639.1 2.13
+Cavia apera 0.088 NA NA 0.0028 NA NA NA NA NA
+Lepus europaeus NA NA NA 0.0178 "European hare" 10.7 acceptable NA NA
+Oryctolagus cuniculus 2.844 NA NA 0.0137 "European rabbit" 9 questionable 2167.9 7.395
+Oryctolagus cuniculus 2.217 NA NA 0.0106 "European rabbit" 9 questionable 2167.9 7.395
+Oryctolagus cuniculus 0.622 NA NA 0.00905 "European rabbit" 9 questionable 2167.9 7.395
+Procavia capensis 1.92 NA NA 0.02 "Rock hyrax" 14.8 acceptable 2458 4.954
+Procavia capensis 0.6 NA NA 0.0148 "Rock hyrax" 14.8 acceptable 2458 4.954
+Pecari tajacu NA NA NA 0.0853 "Collared peccary" 31.5 high 20500 33.165
+Sus scrofa NA NA NA 0.1698 "Wild boar" 27 high 135000 104.15
+Cervus canadensis 200 NA NA 0.4093 NA NA NA NA NA
+Odocoileus hemionus NA NA NA 0.195 "Mule deer" 22 acceptable NA NA
+Rusa timorensis NA NA NA 0.1976 "Timor deer" 21.1 acceptable NA NA
+Boselaphus tragocamelus 125 NA NA 0.2555 Nilgai 21.7 high NA NA
+Boselaphus tragocamelus 125 NA NA 0.288 Nilgai 21.7 high NA NA
+Capra aegagrus NA NA NA 0.1306 NA NA NA NA NA
+Capra aegagrus NA NA NA 0.0858 NA NA NA NA NA
+Bos taurus NA NA NA 0.307 "Domestic cattle" 20 questionable 347000 306.77
+Euphractus sexcinctus 7.99 NA NA 0.0335 "Six-banded armadillo" 22.1 acceptable 8190 6.901
+Bradypus tridactylus 4.097 NA NA 0.0249 "Pale-throated three-toed sloth" NA low NA NA
+Trichosurus vulpecula 1.62 NA NA 0.0114 "Brush-tailed possum" 15.9 acceptable 1993.5 3.8
+Macropus robustus NA NA NA 0.0358 Wallaroo 22 acceptable 29647.9 33.056
+Onychogalea fraenata 1.433 NA NA 0.0135 "Ridled nail-tailed wallaby" 7.4 acceptable NA NA
+Didelphis marsupialis 1.7 NA NA 0.0063 "Southern opossum" 4.2 acceptable 1244.3 3.31
+Ursus arctos 142.88 NA NA 0.2339 "Brown bear" 40 acceptable NA NA
+Ursus maritimus 199.57 NA NA 0.489 "Polar bear" 43.8 acceptable NA NA
+Ursus maritimus 317 NA NA 0.507 "Polar bear" 43.8 acceptable NA NA
+Spilogale arizonae NA NA NA 0.006 NA NA NA NA NA
+Felis silestris 1.542 NA NA 0.018 NA NA NA NA NA
+Felis silestris 2.885 NA NA 0.02346 NA NA NA NA NA
+Felis silestris 3.778 NA NA 0.02837 NA NA NA NA NA
+Felis silestris 5.012 NA NA 0.02823 NA NA NA NA NA
+Genetta tigrina 1.302 NA NA 0.01589 "Large-spotted genet" 21.3 acceptable 1699 4.189
+Genetta tigrina 1.525 NA NA 0.01535 "Large-spotted genet" 21.3 acceptable 1699 4.189
+Bassariscus astutus NA NA NA 0.0171 Ringtail 19 acceptable NA NA
+Felis silvestris 2.7 NA NA 0.02848 "Wild cat" 19 acceptable NA NA
+Acinonyx jubatus 22.2 NA NA NA Cheetah 20.5 high 38446.1 61.77
+Acinonyx jubatus 40.82 NA NA NA Cheetah 20.5 high 38446.1 61.77
+Nasua narica NA NA NA 0.0233 "White-nosed coati" 26.4 acceptable 3670 6.733
+Nasua narica 6.25 NA NA 0.04417 "White-nosed coati" 26.4 acceptable 3670 6.733
+Canis latrans 8.51 NA NA 0.08424 Coyote 21.8 acceptable 10148.9 19.423
+Canis latrans NA NA NA 0.08 Coyote 21.8 acceptable 10148.9 19.423
+Canis familiaris 14.56 NA NA 0.07999 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 12.47 NA NA 0.08114 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 24.49 NA NA 0.1059 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 31.75 NA NA 0.1307 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 26.94 NA NA 0.0793 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 14.75 NA NA 0.06653 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 11.26 NA NA 0.0876 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 23.71 NA NA 0.08463 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 19.28 NA NA 0.09 "Domestic dog" 24 acceptable NA NA
+Canis familiaris 38.42 NA NA 0.0952 "Domestic dog" 24 acceptable NA NA
+Otocyon megalotis 3.335 NA NA 0.02609 "Bat-eared fox" 17 acceptable NA NA
+Urocyon cinereoargenteus NA NA NA 0.032 "Gray fox" 16.2 acceptable NA NA
+Urocyon cinereoargenteus 3.749 NA NA 0.03728 "Gray fox" 16.2 acceptable NA NA
+Urocyon cinereoargenteus NA NA NA 0.0352 "Gray fox" 16.2 acceptable NA NA
+Vulpes fulva 4.625 NA NA 0.0533 NA NA NA NA NA
+Vulpes lagopus 3.385 NA NA 0.0445 "Arctic fox" 16.3 acceptable 3600 7.665
+Crocuta crocuta 62.37 NA NA 0.175 "Spotted hyena" 41.1 acceptable NA NA
+Canis mesomelas 2.85 NA NA 0.046 "Black-backed jackal" 16.7 acceptable 7720 21.533
+Panthera onca 34.47 NA NA 0.147 Jaguar 28 high 50400 62.419
+Potos flavus 2.62 NA NA 0.03105 Kinkajou 38.4 acceptable 2318 4.294
+Panthera pardus 48 NA NA 0.135 Leopard 27.3 high NA NA
+Puma concolor 28.79 NA NA 0.1067 Cougar 23.8 acceptable 37200 49.326
+Ichneumia albicauda 4.4 NA NA 0.0283 "White-tailed mongoose" 14.8 acceptable NA NA
+Procyon lotor 5.175 NA NA 0.04 "Common raccoon" 21 acceptable 4842.2 10.428
+Procyon lotor 2.226 NA NA 0.03355 "Common raccoon" 21 acceptable 4842.2 10.428
+Procyon lotor 4.536 NA NA 0.0405 "Common raccoon" 21 acceptable 4842.2 10.428
+Procyon lotor 5.216 NA NA 0.0427 "Common raccoon" 21 acceptable 4842.2 10.428
+Mephitis mephitis 1.7 NA NA 0.0103 "Striped skunk" 13.9 acceptable NA NA
+Mephitis mephitis 2.26 NA NA 0.01 "Striped skunk" 13.9 acceptable NA NA
+Conepatus mesoleucus NA NA NA 0.0155 NA NA NA NA NA
+Conepatus mesoleucus NA NA NA 0.016 NA NA NA NA NA
+Leptailurus serval 9.955 NA NA 0.06674 Serval 22.4 high 1012 1.44
+Leptailurus serval 5.819 NA NA 0.05316 Serval 22.4 high 1012 1.44
+Panthera tigris 160 NA NA 0.225 Tiger 26.3 high 137900 133.859
+Panthera tigris 209 NA NA 0.302 Tiger 26.3 high 137900 133.859
+Mustela arctica 0.1693 NA NA 0.00564 NA NA NA NA NA
+Mustela arctica 0.121 NA NA 0.00347 NA NA NA NA NA
+Canis lupus 22.68 NA NA 0.119 "Gray wolf" 20.6 high NA NA
+Canis lubilus 29.94 NA NA 0.152 NA NA NA NA NA
+Desmodus rotundus 0.028 NA NA 9.36e-4 "Vampire bat" 29.2 acceptable 29.4 0.194
+Tamanduas tetradactyla 3.692 NA NA 0.025 NA NA NA NA NA
+Dasypus novemcinctus 2.086 NA NA 0.0095 "Nine-banded armadillo" 22.3 acceptable 3413.7 4.655
+Dasypus novemcinctus 3.401 NA NA 0.0075 "Nine-banded armadillo" 22.3 acceptable 3413.7 4.655
+Bradypus griseus 0.676 NA NA 0.015 NA NA NA NA NA
+Bradypus griseus 1.115 NA NA 0.014 NA NA NA NA NA
+Bradypus griseus 1.601 NA NA 0.013 NA NA NA NA NA
+Bradypus griseus 2.005 NA NA NA NA NA NA NA NA
+Bradypus griseus 2.894 NA NA 0.015 NA NA NA NA NA
+Bradypus griseus 3.121 NA NA 0.0151 NA NA NA NA NA
+Bradypus griseus 3.774 NA NA 0.018 NA NA NA NA NA
+Choloepus hoffmanni 4.825 NA NA 0.02307 "Hoffmann's two-toed sloth" 41 acceptable 4005.2 3.891
+Choloepus hoffmanni 5.271 NA NA 0.026 "Hoffmann's two-toed sloth" 41 acceptable 4005.2 3.891
+Scalopus aquaticus 0.0396 NA NA 0.00116 "Eastern mole" NA low 48 0.378
+Blarina brevicauda 0.0163 NA NA 3.443e-4 "Northern short-tailed shrew" 2.2 acceptable 20.9 0.344
+Blarina brevicauda 0.0188 NA NA 3.52e-4 "Northern short-tailed shrew" 2.2 acceptable 20.9 0.344
+Didelphis marsupialis 1.147 NA NA 0.0048 "Southern opossum" 4.2 acceptable 1244.3 3.31
+Papio cynocephalus 19.51 NA NA 0.175 NA NA NA NA NA
+Cercopithecus mitis 1.22 NA NA 0.0503 "Blue monkey" 37.8 acceptable 8648.7 19.276
+Cercopithecus mitis 2.9 NA NA 0.06146 "Blue monkey" 37.8 acceptable 8648.7 19.276
+Cercopithecus mitis 4.55 NA NA 0.0666 "Blue monkey" 37.8 acceptable 8648.7 19.276
+Alouatta palliata 6.174 NA NA 0.05034 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 4.309 NA NA 0.05425 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 6.577 NA NA 0.05405 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 7.938 NA NA 0.05345 "Mantled howler monkey" 24 acceptable 4670 11.464
+Alouatta palliata 3.119 NA NA 0.0423 "Mantled howler monkey" 24 acceptable 4670 11.464
+Lagothrix lagothricha 5.26 NA NA 0.0862 "Humboldt's woolly monkey" 32 acceptable NA NA
+Galago senegalensis 0.2 NA NA 0.005 "Senegal galago" 17.1 acceptable 171.5 0.764
+Lemur catta 1.725 NA NA 0.0218 "Ring-tailed lemur" 37.3 high NA NA
+Macacus mulatta 3.627 NA NA 0.0931 NA NA NA NA NA
+Macacus mulatta 3.292 NA NA 0.0917 NA NA NA NA NA
+Macacus mulatta 9.163 NA NA 0.109 NA NA NA NA NA
+Macacus mulatta 8.89 NA NA 0.118 NA NA NA NA NA
+Ateles dariensis 8.89 NA NA 0.1184 NA NA NA NA NA
+Cercopithecus sp. 4.937 NA NA 0.0607 NA NA NA NA NA
+Cercopithecus aethiops 3.955 NA NA 0.06089 NA NA NA NA NA
+Cebus capucinus 2.718 NA NA 0.0716 "White-faced capuchin" 54 acceptable NA NA
+Cebus capucinus 3.833 NA NA 0.0733 "White-faced capuchin" 54 acceptable NA NA
+Cebus capucinus 3.101 NA NA 0.07218 "White-faced capuchin" 54 acceptable NA NA
+Saimiri oerstedii 0.607 NA NA 0.0199 "Central American squirrel monkey" NA low NA NA
+Saimiri oerstedii 0.907 NA NA 0.0253 "Central American squirrel monkey" NA low NA NA
+Saimiri oerstedii 0.603 NA NA 0.025 "Central American squirrel monkey" NA low NA NA
+Pan troglodytes 25.85 NA NA 0.4305 Chimpanzee 59.4 acceptable NA NA
+Pan troglodytes 56.69 NA NA 0.44 Chimpanzee 59.4 acceptable NA NA
+Pan troglodytes 43.99 NA NA 0.325 Chimpanzee 59.4 acceptable NA NA
+Gorilla gorilla 181 NA NA NA Gorilla 60.1 acceptable NA NA
+Homo sapiens 57.2 NA NA 1.248 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.297 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.268 Human 122.5 high 70000 82.78
+Homo sapiens 95 NA NA 1.235 Human 122.5 high 70000 82.78
+Homo sapiens 42 NA NA 1.27 Human 122.5 high 70000 82.78
+Homo sapiens 43.4 NA NA 1.375 Human 122.5 high 70000 82.78
+Homo sapiens 49.9 NA NA 1.4 Human 122.5 high 70000 82.78
+Homo sapiens 36.3 NA NA 1.28 Human 122.5 high 70000 82.78
+Homo sapiens 45 NA NA 1.19 Human 122.5 high 70000 82.78
+Homo sapiens 37 NA NA 1.1 Human 122.5 high 70000 82.78
+Homo sapiens 45.8 NA NA 1 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.109 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.513 Human 122.5 high 70000 82.78
+Homo sapiens 76.2 NA NA 1.348 Human 122.5 high 70000 82.78
+Homo sapiens 86.2 NA NA 1.265 Human 122.5 high 70000 82.78
+Homo sapiens 71.2 NA NA 1.28 Human 122.5 high 70000 82.78
+Homo sapiens 73 NA NA 1.365 Human 122.5 high 70000 82.78
+Homo sapiens 78.5 NA NA 1.54 Human 122.5 high 70000 82.78
+Homo sapiens 36 NA NA 1.327 Human 122.5 high 70000 82.78
+Homo sapiens 61 NA NA 1.2 Human 122.5 high 70000 82.78
+Homo sapiens 46 NA NA 1.16 Human 122.5 high 70000 82.78
+Homo sapiens 43 NA NA 1.24 Human 122.5 high 70000 82.78
+Homo sapiens 63 NA NA 1.18 Human 122.5 high 70000 82.78
+Homo sapiens 43 NA NA 1.35 Human 122.5 high 70000 82.78
+Homo sapiens 44 NA NA 1.3 Human 122.5 high 70000 82.78
+Homo sapiens 45 NA NA 1.14 Human 122.5 high 70000 82.78
+Homo sapiens 51 NA NA 1.5 Human 122.5 high 70000 82.78
+Homo sapiens 83 NA NA 1.42 Human 122.5 high 70000 82.78
+Homo sapiens 56 NA NA 1.57 Human 122.5 high 70000 82.78
+Homo sapiens 61 NA NA 1.49 Human 122.5 high 70000 82.78
+Homo sapiens 51 NA NA 1.31 Human 122.5 high 70000 82.78
+Homo sapiens 81.6 NA NA 1.35 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.45 Human 122.5 high 70000 82.78
+Homo sapiens 79.4 NA NA 1.274 Human 122.5 high 70000 82.78
+Homo sapiens 81.6 NA NA 1.13 Human 122.5 high 70000 82.78
+Homo sapiens 74 NA NA 1.377 Human 122.5 high 70000 82.78
+Homo sapiens 50 NA NA 1.48 Human 122.5 high 70000 82.78
+Homo sapiens 65.8 NA NA 1.31 Human 122.5 high 70000 82.78
+Homo sapiens 74.8 NA NA 1.41 Human 122.5 high 70000 82.78
+Homo sapiens 74.3 NA NA 1.36 Human 122.5 high 70000 82.78
+Homo sapiens NA NA NA 1.3 Human 122.5 high 70000 82.78
+Homo sapiens 57 NA NA 1.351 Human 122.5 high 70000 82.78
+Homo sapiens 68 NA NA 1.411 Human 122.5 high 70000 82.78
+Dasyprocta punctata 3.172 NA NA 0.01834 "Central American agouti" 13.8 acceptable NA NA
+Dasyprocta punctata 3.627 NA NA 0.02185 "Central American agouti" 13.8 acceptable NA NA
+Dasyprocta punctata 4.559 NA NA 0.048 "Central American agouti" 13.8 acceptable NA NA
+Castor canadensis 4.18 NA NA 0.02548 "American beaver" 23.4 acceptable NA NA
+Castor canadensis 5.83 NA NA 0.02952 "American beaver" 23.4 acceptable NA NA
+Hydrochoerus isthmius 27.67 NA NA 0.05221 NA NA NA NA NA
+Tamias striatus 0.075 NA NA 0.0016 "Eastern chipmunk" 9.5 acceptable 89.6 0.813
+Tamias striatus NA NA NA 0.00222 "Eastern chipmunk" 9.5 acceptable 89.6 0.813
+Tamias striatus NA NA NA 0.00173 "Eastern chipmunk" 9.5 acceptable 89.6 0.813
+Thomomys sp. NA NA NA 0.00133 NA NA NA NA NA
+Thomomys sp. NA NA NA 0.0012 NA NA NA NA NA
+Cavia porcellus 0.351 NA NA 0.00363 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.361 NA NA 0.0041 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.324 NA NA 0.0038 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.21494 NA NA 0.00332 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.21457 NA NA 0.00328 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.432 NA NA 0.004 "Guinea pig" 12 high 639.1 2.13
+Cavia porcellus 0.456 NA NA 0.00423 "Guinea pig" 12 high 639.1 2.13
+Lepus capensis 2.93 NA NA 0.01023 "Cape hare" NA low NA NA
+Lepus arcticus 1.901 NA NA 0.01436 NA NA NA NA NA
+Lepus arcticus 2.64 NA NA 0.0139 NA NA NA NA NA
+Lemmus trimucronatus 0.032 NA NA 0.001126 NA NA NA NA NA
+Lemmus trimucronatus 0.048 NA NA 0.001312 NA NA NA NA NA
+Dicrostonyx groenlandicus 0.0521 NA NA 8.983e-4 "Collared lemming" 3.3 acceptable 56.8 0.459
+Dicrostonyx groenlandicus 0.0552 NA NA 8.447e-4 "Collared lemming" 3.3 acceptable 56.8 0.459
+Mastomys coucha 0.0218 NA NA 7.132e-4 NA NA NA NA NA
+Zapus hudsonicus 0.0193 NA NA 6.961e-4 NA NA NA NA NA
+Zapus hudsonicus 0.0152 NA NA 5.22e-4 NA NA NA NA NA
+Microtus drummondi 0.0237 NA NA 6.606e-4 NA NA NA NA NA
+Microtus drummondi 0.0229 NA NA 6.464e-4 NA NA NA NA NA
+Microtus drummondi 0.0325 NA NA 6.724e-4 NA NA NA NA NA
+Microtus pennsylvanicus 0.0252 NA NA 7.166e-4 "Meadow vole" NA low 38.2 0.428
+Microtus pennsylvanicus 0.0279 NA NA 7.394e-4 "Meadow vole" NA low 38.2 0.428
+Microtus pennsylvanicus 0.0413 NA NA 7.635e-4 "Meadow vole" NA low 38.2 0.428
+Peromyscus sp. 0.0122 NA NA 4.07e-4 NA NA NA NA NA
+Peromyscus sp. 0.0184 NA NA 4.511e-4 NA NA NA NA NA
+Peromyscus sp. 0.02 NA NA 4.43e-4 NA NA NA NA NA
+Ondatra zibethicus 0.9 NA NA 0.00533 Muskrat NA low 976.3 4.363
+Erethizon dorsatum 2.8 NA NA 0.03077 NA NA NA NA NA
+Erethizon dorsatum 2.725 NA NA 0.02122 NA NA NA NA NA
+Erethizon dorsatum 3.41 NA NA 0.01915 NA NA NA NA NA
+Cynomys gunnisoni NA NA NA 0.0056 "Gunnison's prairie dog" NA low NA NA
+Sylvilagus audubonii NA NA NA 0.00725 "Audubon's cottontail rabbit" 7.8 acceptable 686.9 2.506
+Lepus sp. 3.68 NA NA 0.01059 NA NA NA NA NA
+Lepus sp. 2.587 NA NA 0.01014 NA NA NA NA NA
+Lepus californicus NA NA NA 0.012 "Black-tailed jackrabbit" 11.8 acceptable 2300 7.314
+Sylvilagus gabbi 0.439 NA NA 0.0045 NA NA NA NA NA
+Neotoma sp. NA NA NA 0.0022 NA NA NA NA NA
+Neotoma sp. NA NA NA 0.00187 NA NA NA NA NA
+Rattus norvegicus 0.197 NA NA 0.00161 "Norway rat" 3.8 acceptable 206.9 1.404
+Rattus norvegicus 0.278 NA NA 0.0023 "Norway rat" 3.8 acceptable 206.9 1.404
+Sciurus aberti NA NA NA 0.00625 "Abert's squirrel" NA low 624 2.402
+Callospermophilus sp. NA NA NA 0.003 NA NA NA NA NA
+Spermophilus tridecemlineatus NA NA NA 0.002 NA NA NA NA NA
+Tamiasciurus hudsonicus 0.248 NA NA 0.00502 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus 0.183 NA NA 0.00471 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus 0.169 NA NA 0.00421 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus 0.183 NA NA 0.00397 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus 0.063 NA NA 0.00409 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus NA NA NA 0.0043 "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus NA NA NA 0.0044 "Red squirrel" 9.8 acceptable 219.6 1.615
+Bison bison 54.88 NA NA 0.334 "American bison" 33.5 high NA NA
+Syncerus caffer 750 NA NA 0.64 "African buffalo" 32.8 acceptable NA NA
+Syncerus caffer 572 NA NA 0.642 "African buffalo" 32.8 acceptable NA NA
+Syncerus caffer 759 NA NA 0.653 "African buffalo" 32.8 acceptable NA NA
+Tragelaphus sylvaticus 35.38 NA NA 0.14 NA NA NA NA NA
+Tragelaphus sylvaticus 53.07 NA NA 0.19 NA NA NA NA NA
+Rangifer tarandus 71.7 NA NA 0.278 "Caribou and reindeer" 21.8 high 85000 119.66
+Rangifer tarandus 128.47 NA NA 0.306 "Caribou and reindeer" 21.8 high 85000 119.66
+Rangifer tarandus 62.14 NA NA 0.285 "Caribou and reindeer" 21.8 high 85000 119.66
+Microtus nivalis 0.0333 0.7067 21.2222222222222 NA NA NA NA NA NA
+Zapus hudsonius 0.03 0.25 8.33333333333333 NA "Meadow jumping mouse" 5.6 acceptable 26.1 0.219
+Perognathus californicus 0.022 0.118555555555556 5.38888888888889 NA NA NA NA NA NA
+Myopus schisticolor 0.0282 0.5546 19.6666666666667 NA "Wood lemming" NA low 26.4 0.522
+Fukomys mechowi 0.267 0.89 3.33333333333333 NA NA NA NA NA NA
+Microtus breweri 0.0531 0.409444444444444 7.71081816279556 NA NA NA NA NA NA
+Microtus pennsylvanicus 0.0447 0.446666666666667 9.99254287844892 NA "Meadow vole" NA low 38.2 0.428
+Octomys mimax 0.1186 0.639122222222222 5.38888888888889 NA NA NA NA NA NA
+Tympanoctomys barrerae 0.0518 0.359722222222222 6.94444444444444 NA NA NA NA NA NA
+Tympanoctomys barrerae 0.091 0.455 5 NA NA NA NA NA NA
+Georychus capensis 0.1065 0.852 8 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1113 0.618333333333333 5.55555555555556 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1091 0.666722222222222 6.11111111111111 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1129 0.5645 5 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1121 0.647688888888889 5.77777777777778 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1186 0.751133333333333 6.33333333333333 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1192 0.768177777777778 6.44444444444444 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.1159 0.798422222222222 6.88888888888889 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Georychus capensis 0.28 2.38 8.5 NA "Cape mole-rat" 11.2 questionable 193 0.637
+Gerbillus allenbyi 0.0353 0.215722222222222 6.11111111111111 NA NA NA NA NA NA
+Gerbillus nanus 0.0284 0.123066666666667 4.33333333333333 NA "Baluchistan gerbil" 4.5 questionable 29.7 0.129
+Cryptomys sp. 0.0819 0.5096 6.22222222222222 NA NA NA NA NA NA
+Fukomys damarensis 0.124 0.392666666666667 3.16666666666667 NA NA NA NA NA NA
+Aepyprymnus rufescens 2.82 5.9784 2.12 NA "Rufous 'rat'-kangaroo" 12.8 acceptable 2820 5.978
+Eutamias "minimus borealis" 0.0493 0.5 10.1419878296146 NA NA NA NA NA NA
+Eutamias "minimus oreocetes" 0.0458 0.444444444444444 9.70402717127608 NA NA NA NA NA NA
+Eutamias "amoenus luteiventris" 0.0573 0.488888888888889 8.53209230172581 NA NA NA NA NA NA
+Otospermophilus beecheyi 0.5996 1.76548888888889 2.94444444444445 NA NA NA NA NA NA
+Erinaceus concolor 0.8227 1.92877444444444 2.34444444444444 NA "Eastern European hedgehog" 7 acceptable 822.7 1.937
+Spalax ehrenbergi 0.104 0.595111111111111 5.72222222222222 NA "Palestine mole rat" 20.2 acceptable 133.8 0.585
+Spalax ehrenbergi 0.128 0.611555555555556 4.77777777777778 NA "Palestine mole rat" 20.2 acceptable 133.8 0.585
+Spalax ehrenbergi 0.117 0.5525 4.72222222222222 NA "Palestine mole rat" 20.2 acceptable 133.8 0.585
+Spalax ehrenbergi 0.124 0.599333333333333 4.83333333333333 NA "Palestine mole rat" 20.2 acceptable 133.8 0.585
+Spalax ehrenbergi 0.121 0.416777777777778 3.44444444444444 NA "Palestine mole rat" 20.2 acceptable 133.8 0.585
+Rhinonicteris aurantia 0.00827 0.0900511111111111 10.8888888888889 NA NA NA NA NA NA
+Miniopterus schreibersii 0.01091 0.144254444444444 13.2222222222222 NA "Schreibers's long-fingered bat" 22 acceptable 10.9 0.145
+Miniopterus gigas 0.1072 0.524088888888889 4.88888888888889 NA NA NA NA NA NA
+Elephantulus rozeti 0.04531 0.265566944444444 5.86111111111111 NA "North African elephant shrew" 7.2 acceptable 49 0.288
+Elephantulus myurus 0.06297 0.3683745 5.85 NA NA NA NA NA NA
+Macroderma gigas 0.15 0.783333333333333 5.22222222222222 NA "Australian false vampire bat" 22.6 acceptable 126 0.639
+Perognathus longimembris 0.00823 0.0489227777777778 5.94444444444445 NA "Little pocket mouse" 8.3 acceptable 8.5 0.061
+Perognathus hispidus 0.0395 0.274305555555556 6.94444444444444 NA NA NA NA NA NA
+Tamias striatus 0.0874 0.500122222222222 5.72222222222222 NA "Eastern chipmunk" 9.5 acceptable 89.6 0.813
+Cynomys ludovicianus 1.1123 2.36666666666667 2.12772333603045 NA "Black-tailed prairie dog" 11 high 1112.3 2.358
+Tragulus javanicus 1.613 9.07760555555556 5.62777777777778 NA "Lesser mouse-deer" 14 acceptable 1615.5 4.883
+Tragulus javanicus 1.613 8.95215 5.55 NA "Lesser mouse-deer" 14 acceptable 1615.5 4.883
+Equus Asinus 105.5 210.648333333333 1.99666666666667 NA NA NA NA NA NA
+Lama glama 115 147.2 1.28 NA Llama 28.9 high 115000 148.94
+Madoqua kirkii 3.97 11.4688888888889 2.88888888888889 NA "Kirk's dik-dik" 17.3 acceptable 4290 11.966
+Microtus oeconomus 0.032 0.56 17.5 NA "Tundra vole" NA low 32.8 0.566
+Dicrostonyx groenlandicus 0.047 0.513333333333333 10.9219858156028 NA "Collared lemming" 3.3 acceptable 56.8 0.459
+Lemmus trimucronatus 0.064 0.876666666666667 13.6979166666667 NA NA NA NA NA NA
+Mustela rixosa 0.075 0.916666666666667 12.2222222222222 NA NA NA NA NA NA
+Citellus undulatus 0.68 3.26666666666667 4.80392156862745 NA NA NA NA NA NA
+Vulpes lagopus 3.6 7.63333333333333 2.12037037037037 NA "Arctic fox" 16.3 acceptable 3600 7.665
+Ictidomys tridecemlineatus 0.2338 1.00534 4.3 NA "Thirteen-lined ground squirrel" 7.9 acceptable 198.4 0.983
+Cricetomys gambianus 1.8709 6.34027222222222 3.38888888888889 NA "Gambian rat" 8.4 acceptable 1686.7 6.024
+Abrothrix andinus 0.0346 0.35945555555555597 10.3888888888889 NA NA NA NA NA NA
+Abrothrix longipilis 0.0423 0.3196 7.55555555555556 NA NA NA NA NA NA
+Abrothrix olivaceus 0.027 0.2745 10.1666666666667 NA NA NA NA NA NA
+Auliscomys boliviensis 0.0768 0.6144 8 NA NA NA NA NA NA
+Auliscomys micropus 0.0623 0.543394444444444 8.72222222222222 NA NA NA NA NA NA
+Eligmodontia typus 0.0175 0.16625 9.5 NA "Highland gerbil mouse" NA low 17.5 0.167
+Oryzomys longicaudatus 0.0282 0.283566666666667 10.0555555555556 NA NA NA NA NA NA
+Phyllotis darwini 0.059 0.396611111111111 6.72222222222222 NA "Darwin's leaf-eared mouse" NA low 47 0.333
+Myotomys unisulcatus 0.096 0.592 6.16666666666667 NA NA NA NA NA NA
+Parotomys brantsii 0.0865 0.466138888888889 5.38888888888889 NA NA NA NA NA NA
+Peropteryx macrotis 0.0051 0.06545 12.8333333333333 NA NA NA NA NA NA
+Natalus tumidirostris 0.0054 0.0462 8.55555555555556 NA NA NA NA NA NA
+Mystromys albicaudatus 0.09378 0.704392 7.51111111111111 NA "White-tailed mouse" 6.3 acceptable 93.8 0.707
+Peromyscus pirrensis 0.1277 0.681066666666667 5.33333333333333 NA NA NA NA NA NA
+Peromyscus pirrensis 0.1743 0.823083333333333 4.72222222222222 NA NA NA NA NA NA
+Peromyscus pirrensis 0.1397 0.62865 4.5 NA NA NA NA NA NA
+Peromyscus pirrensis 0.1126 0.613044444444445 5.44444444444444 NA NA NA NA NA NA
+Peromyscus pirrensis 0.1298 0.605733333333333 4.66666666666667 NA NA NA NA NA NA
+Peromyscus pirrensis 0.1436 0.670133333333333 4.66666666666667 NA NA NA NA NA NA
+Tamiasciurus hudsonicus 0.224 1.35644444444444 6.05555555555556 NA "Red squirrel" 9.8 acceptable 219.6 1.615
+Tamiasciurus hudsonicus 0.231 1.45016666666667 6.27777777777778 NA "Red squirrel" 9.8 acceptable 219.6 1.615
+Raphicerus campestris 9.55 20.4263888888889 2.13888888888889 NA Steenbok 9.3 acceptable 9600 20.619
+Cephalophus monticola 4.15 9.91388888888889 2.38888888888889 NA NA NA NA NA NA
+Tatera afra 0.1483 1.40885 9.5 NA NA NA NA NA NA
+Macroscelides proboscideus 0.039 0.290333333333333 7.44444444444444 NA "Short-eared elephant shrew" 8.7 acceptable 39 0.292
+Petrodromus tetradactylus 0.20611 0.997343388888889 4.83888888888889 NA "Four-toed elephant shrew" NA low 208 0.852
+Elephantulus intufi 0.04649 0.288883694444445 6.21388888888889 NA "Long-eared elephant shrew" 9.3 acceptable 46.5 0.29
+Elephantulus brachyrhynchus 0.0453 0.242833166666667 5.36055555555556 NA "Short-nosed elephant shrew" NA low 45.3 0.244
+Geomys bursarius 0.197 0.766111111111111 3.88888888888889 NA "Plains pocket gopher" 12 acceptable 197 0.769
+Ochrotomys nuttalli 0.0195 0.150583333333333 7.72222222222222 NA "Golden mouse" 8.4 acceptable 19.5 0.151
+Herpestes auropunctatus 0.611 2.24033333333333 3.66666666666667 NA NA NA NA NA NA
+Phyllotis rupestris 0.0555 0.3145 5.66666666666667 NA NA NA NA NA NA
+Phyllotis magister 0.0628 0.401222222222222 6.38888888888889 NA NA NA NA NA NA
+Phyllotis darwini 0.0762 0.474133333333333 6.22222222222222 NA "Darwin's leaf-eared mouse" NA low 47 0.333
+Octodontomys gliroides 0.152 0.726222222222222 4.77777777777778 NA "Mountain degu" NA low 154.1 0.715
+Octodon degus 0.206 1.06433333333333 5.16666666666667 NA Degu 14 acceptable 199.6 0.958
+Trichomys apereoides 0.323 1.14844444444444 3.55555555555556 NA NA NA NA NA NA
+Chinchilla lanigera 0.426 1.25433333333333 2.94444444444445 NA "Long-tailed chinchilla" 17.2 acceptable 436.7 1.31
+Kerodon rupestris 0.801 1.8245 2.27777777777778 NA "Rock cavy" 12.9 acceptable 801 2.011
+Myoprocta acouchy 0.914 2.79277777777778 3.05555555555556 NA "Red acouchi" 14.8 acceptable 914 2.804
+Dolichotis salinicola 1.613 4.0325 2.5 NA NA NA NA NA NA
+Dasyprocta leporina 2.687 8.65811111111111 3.22222222222222 NA Agouti 17.8 high 2687 8.694
+Dasyprocta azarae 3.849 10.4778333333333 2.72222222222222 NA "Azara's agouti" 11.8 acceptable 3849 10.521
+Agouti paca 9.156 15.26 1.66666666666667 NA NA NA NA NA NA
+Hydrochaeris hydrochaeris 26.4 36.6666666666667 1.38888888888889 NA NA NA NA NA NA
+Condylura cristata 0.049 0.6125 12.5 NA "Star-nosed mole" 2.5 acceptable 49 0.615
+Otomys sloggetti 0.11329 0.742678888888889 6.55555555555556 NA NA NA NA NA NA
+Nyctophilus major 0.0136 0.113333333333333 8.33333333333333 NA NA NA NA NA NA
+Zaglossus bruijni 13.63 6.1335 0.45 NA "Long-nosed echidna" 41.2 acceptable 11848.6 6.493
+Tachyglossus aculeatus 3.43 2.51533333333333 0.733333333333333 NA "Short-beaked echidna" 49.5 acceptable 2909 2.327
+Ornithorhynchus anatinus 1.32 2.662 2.01666666666667 NA "Duck-billed platypus" 22.6 acceptable 1030.3 1.931
+Notoryctes caurinus 0.034 0.119 3.5 NA NA NA NA NA NA
+Mustela erminea 0.041 0.75 18.2926829268293 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.045 0.893333333333333 19.8518518518519 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.065 0.72 11.0769230769231 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela rixosa 0.071 0.91 12.8169014084507 NA NA NA NA NA NA
+Mustela rixosa 0.077 1.08333333333333 14.0692640692641 NA NA NA NA NA NA
+Mustela rixosa 0.084 0.953333333333333 11.3492063492063 NA NA NA NA NA NA
+Mustela erminea 0.08 0.986666666666667 12.3333333333333 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.085 1.42666666666667 16.7843137254902 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela erminea 0.115 1.04 9.04347826086957 NA Ermine 12.5 acceptable 125.5 1.276
+Mustela rixosa 0.223 2.51333333333333 11.270553064275 NA NA NA NA NA NA
+Mustela rixosa 0.231 2.22 9.61038961038961 NA NA NA NA NA NA
+Cerdocyon thous 6.874 10.2346222222222 1.48888888888889 NA "Crab-eating fox" 12.7 acceptable 5444 8.502
+Cerdocyon thous 4.354 6.7487 1.55 NA "Crab-eating fox" 12.7 acceptable 5444 8.502
+Vulpes zerda 1.2 3.2 2.66666666666667 NA Fennec 16.3 acceptable 1159.2 2.693
+Elephantulus rufescens 0.053 0.315938888888889 5.96111111111111 NA "Rufous elephant shrew" 7.9 acceptable 53 0.317
+Oxymycterus roberti 0.071 0.510411111111111 7.18888888888889 NA NA NA NA NA NA
+Oxymycterus roberti 0.096 0.47253333333333303 4.92222222222222 NA NA NA NA NA NA
+Petrodromus tetradactylus 0.21 0.709333333333333 3.37777777777778 NA "Four-toed elephant shrew" NA low 208 0.852
+Cyclopes didactylus 0.24 0.636 2.65 NA "Silky anteater" NA low 240 0.636
+Myrmecobius fasciatus 0.4 0.791111111111111 1.97777777777778 NA Numbat 11 acceptable 438.2 0.907
+Tachyglossus aculeatus 2.14 1.55744444444444 0.727777777777778 NA "Short-beaked echidna" 49.5 acceptable 2909 2.327
+Tachyglossus setosus 3.58 3.043 0.85 NA NA NA NA NA NA
+Manis javanica 4.22 6.14244444444444 1.45555555555556 NA NA NA NA NA NA
+Tamandua tetradactyla 3.5 4.91944444444444 1.40555555555556 NA "Southern tamandua" 19 acceptable 3500 5.015
+Tamandua mexicana 4.21 4.72455555555556 1.12222222222222 NA "Northern tamandua" 16 acceptable 3884.2 5.124
+Proteles cristata 7.71 10.8796666666667 1.41111111111111 NA Aardwolf 20 acceptable 7902.6 11.563
+Zaglossus bruijni 10.3 6.75222222222222 0.655555555555556 NA "Long-nosed echidna" 41.2 acceptable 11848.6 6.493
+Myrmecophaga tridactyla 30.6 14.45 0.472222222222222 NA "Giant anteater" 31 acceptable 30600 14.543
+Orycteropus afer 48 34.1333333333333 0.711111111111111 NA Aardvark 29.8 acceptable 48000 34.275
+Clethrionomys californicus 0.0183 0.339566666666667 18.5555555555556 NA NA NA NA NA NA
+Phenacomys intermedius 0.0215 0.373861111111111 17.3888888888889 NA "Western heather vole" NA low 21.5 0.375
+Arborimus longicaudus 0.0218 0.327 15 NA NA NA NA NA NA
+Clethrionomys gapperi 0.0214 0.336455555555556 15.7222222222222 NA NA NA NA NA NA
+Clethrionomys gapperi 0.0228 0.247 10.8333333333333 NA NA NA NA NA NA
+Microtus pinetorum 0.0238 0.310722222222222 13.0555555555556 NA "Woodland vole" 3.8 acceptable 24.8 0.305
+Microtus longicaudus 0.0302 0.345622222222222 11.4444444444444 NA "Long-tailed vole" NA low 32.5 0.383
+Lagurus curtatus 0.0303 0.279433333333333 9.22222222222222 NA NA NA NA NA NA
+Microtus oeconomus 0.0354 0.558533333333333 15.7777777777778 NA "Tundra vole" NA low 32.8 0.566
+Microtus montanus 0.0281 0.394961111111111 14.0555555555556 NA NA NA NA NA NA
+Microtus montanus 0.0304 0.432355555555556 14.2222222222222 NA NA NA NA NA NA
+Microtus montanus 0.0512 0.497777777777778 9.72222222222222 NA NA NA NA NA NA
+Lemmus sibiricus 0.044 0.391111111111111 8.88888888888889 NA NA NA NA NA NA
+Microtus xanthognathus 0.0685 0.548 8 NA NA NA NA NA NA
+Dicrostonyx groenlandicus 0.0605 0.568027777777778 9.38888888888889 NA "Collared lemming" 3.3 acceptable 56.8 0.459
+Dicrostonyx groenlandicus 0.0623 0.584927777777778 9.38888888888889 NA "Collared lemming" 3.3 acceptable 56.8 0.459
+Arvicola richardsoni 0.08 0.96 12 NA NA NA NA NA NA
+Neofiber alleni 0.2581 1.20446666666667 4.66666666666667 NA NA NA NA NA NA
+Ondatra zibethicus 1.0046 3.57191111111111 3.55555555555556 NA Muskrat NA low 976.3 4.363
+Hylomys sulillus 0.0773 0.446622222222222 5.77777777777778 NA NA NA NA NA NA
+Mustela vison 0.656 2.7185125 4.14407393292683 NA NA NA NA NA NA
+Mustela vison 0.667 2.703975 4.05393553223388 NA NA NA NA NA NA
+Mustela vison 0.788 3.20794166666667 4.07099196277496 NA NA NA NA NA NA
+Lepus arcticus 3.0044 6.0088 2 NA NA NA NA NA NA
+Cebuella pygmaea 0.096 0.522666666666667 5.44444444444444 NA "Pygmy marmoset" 18.6 high 110.7 0.599
+Cebuella pygmaea 0.133 0.812777777777778 6.11111111111111 NA "Pygmy marmoset" 18.6 high 110.7 0.599
+Neurotrichus gibbsii 0.0118 0.258288888888889 21.8888888888889 NA NA NA NA NA NA
+Echinosorex gymnura 0.7212 2.80466666666667 3.88888888888889 NA Moonrat NA low 721.2 2.816
+Genetta tigrina 1.698 4.15066666666667 2.44444444444444 NA "Large-spotted genet" 21.3 acceptable 1699 4.189
+Martes americana 1.038 3.81176666666667 3.67222222222222 NA "American marten" 17.8 acceptable 966.5 3.579
+Scalopus aquaticus 0.048 0.376 7.83333333333333 NA "Eastern mole" NA low 48 0.378
+Spalacopus cyanus 0.185 0.811944444444444 4.38888888888889 NA Coruro 10.8 acceptable 126.2 0.561
+Cannomys badius 0.344 0.955555555555556 2.77777777777778 NA "Lesser bamboo rat" 4.8 acceptable 344 0.96
+Aplodontia rufa 0.63 1.54 2.44444444444444 NA "Mountain beaver" NA low 706.8 1.892
+Galerella sanguinea 0.54 2.28 4.22222222222222 NA "Slender mongoose" 12.6 acceptable 519.6 2.202
+Oreamnos americanus 32 46.2222222222222 1.44444444444444 NA "Mountain goat" 20.8 acceptable 32000 46.414
+Eremitalpa granti 0.02062 0.0603888888888889 2.92865610518375 NA NA NA NA NA NA
+Hydromys chrysogaster 0.77 2.541 3.3 NA "Golden-bellied water rat" 7.3 acceptable 900 2.97
+Mus musculus 0.0321 0.2889 9 NA "House mouse" 4 high 18 0.271
